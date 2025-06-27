@@ -1,0 +1,134 @@
+
+
+====================================================================================================
+
+This Is Samuel Alito’s Ugliest Dissent in Some Time
+
+====================================================================================================
+
+_Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+You don’t need to kill anyone to be put to death in Texas. The state doesn’t need your
+fingerprints on the weapon, your DNA on the body, or your shadow in the doorway. It just needs you
+nearby and legally adjacent to the violence. And if the blood under the victim’s fingernails turns
+out to be someone else’s? If the DNA proves you weren’t the one who did it? Texas shrugs. It
+wants the execution to proceed.
+
+That’s the legal terrain Ruben Gutierrez has spent more than two decades navigating and that
+finally resulted in the Supreme Court’s intervention on Thursday. Convicted in 1999 for the murder
+of Escolastica Harrison, an 85-year-old woman killed during a robbery in her home, Gutierrez has
+always admitted to helping plan the crime. He knew that Harrison kept large sums of money hidden in
+her mobile home, and he and two others intended to steal it. That admission is why not even
+Gutierrez claims full innocence. But partial guilt is not the same as death eligibility. Gutierrez
+insists he wasn’t in the room when Harrison was killed. He didn’t wield the screwdriver used to
+stab her. He didn’t intend to harm her. He didn’t anticipate that she would die. That
+distinction, under Texas law, matters; not just morally but legally.
+
+Texas law allows a person to be convicted of capital murder if they were a party to the underlying
+felony and someone was killed in the course of it. But to sentence someone to death, the jury must
+go further. It must find that the defendant caused the death, intended it, or at least anticipated
+it. That’s the line Gutierrez has spent years trying to draw—between being part of a robbery
+gone wrong and being the reason a woman is dead. And that’s why he has sought DNA testing of
+physical evidence recovered from the scene—fingernail scrapings, bloodstains, and hair—that
+could show that someone else committed the killing. If the evidence reveals that he was not
+physically present at the murder, it could unravel the jury’s finding that he met the legal
+threshold for death.
+
+Texas refused. Its postconviction DNA-testing statute permits access only if the evidence would
+likely have changed the outcome of the trial. And since Gutierrez was convicted under Texas’ law
+of parties—a legal mechanism that holds responsible for murder participants in a crime that
+resulted in that murder—the state insisted that proving that someone else committed the murder
+wouldn’t necessarily matter. He could still be held accountable under a theory of shared
+responsibility. In Texas’ eyes, DNA demonstrating that Gutierrez wasn’t the killer might be
+scientifically conclusive but legally meaningless.
+
+When Gutierrez sued under Section 1983, claiming that Texas’ DNA-testing procedures violated his
+right to procedural due process, the U.S. Court of Appeals for the 5th Circuit dismissed the case.
+It held that Gutierrez lacked standing: that even if the DNA proved that someone else had done the
+killing, it wouldn’t redress the injury, because the law could still permit his execution. The
+result was a ruling that elevated legal form over factual inquiry, treating the death penalty as a
+sealed outcome rather than a sentence contingent on truth.
+
+On Thursday, the Supreme Court reopened that door. In a 6–3 decision, it held that Gutierrez
+_does_ have standing to pursue his procedural due process claim in federal court. Chief Justice John
+Roberts, writing for the majority, rejected the state’s argument that the potential impact of the
+DNA evidence was too speculative. The issue wasn’t whether Gutierrez would ultimately prevail; it
+was whether the DNA evidence he seeks to test could, if favorable, plausibly support a renewed
+challenge to his death sentence. And it could. If that evidence shows that someone else inflicted
+the wounds—if it casts doubt on whether Gutierrez caused, intended, or anticipated Harrison’s
+death—it vitiates the findings that made him eligible for the death penalty. And that, Roberts
+wrote, is enough to establish standing.
+
+It is a subdued assertion of what should be self-evident: that the law cannot claim legitimacy if it
+shields itself from the facts it purports to judge. That finality is not a license for ignorance.
+That procedural rules are not meant to entomb the truth, especially when the state seeks to end a
+life.
+
+We live in an era when the capacity to be shocked by what members of this court are willing to
+defend has all but collapsed. And yet, even in that desensitized landscape, Justice Samuel Alito’s
+dissent in _Gutierrez_ manages to stun. He, joined by Justices Clarence Thomas and Neil Gorsuch,
+argued that Gutierrez’s claim should have been tossed from the start.
+
+In their view, the state can strap a man to a gurney and stop his heart even if the law forbids it
+so long as the process doesn’t flinch and the record stays closed. It is a vision of justice so
+warped that the legality of death depends not on what happened but on whether anyone is still
+allowed to care.
+
+Because Texas allows accomplice liability in capital cases, Alito reasoned, it didn’t matter
+whether Gutierrez was the actual killer, so DNA testing that might identify someone else wouldn’t
+change the outcome. The majority, he warned, was inviting an endless wave of litigation over
+evidence that could never truly exonerate a person under Texas law.
+
+But this is more than procedural stinginess. It is a philosophy of deliberate obliviousness.
+Alito’s dissent reduces the death penalty to a matter of bureaucratic form in which the sentence
+rests not on what happened but on how skillfully the prosecution framed the murder. Rather than
+treating DNA as a tool for truth, it sees it as a threat to tidy verdicts. In this view, the only
+error worth acknowledging is one that fits neatly within existing doctrine; everything else, even
+proof that the state does not have the authority to extinguish a life, is noise.
+
+RELATED FROM SLATE
+
+DAHLIA LITHWICK AND MARK JOSEPH STERN
+
+THIS IS THE WORST SUPREME COURT DECISION OF TRUMP’S SECOND TERM
+
+ READ MORE 
+And that’s what makes it so chilling. The dissent is hostile not just to Gutierrez. It’s hostile
+to the very idea that new facts should have power. It reflects a jurisprudence in which legal
+theories matter more than human lives, in which a man can be executed as long as the state dots the
+right i’s, even if he didn’t do the thing it’s killing him for. The cruelty, as always, is not
+incidental. It’s a feature of a system that, way too often, protects its own inertia above all
+else.
+
+And it exposes something deeper about how the law handles its most final punishment: its willingness
+to seal off inquiry precisely when the stakes are highest. _Gutierrez_ is not merely a dispute about
+legal thresholds. It’s a window into how death-penalty doctrine has learned to forget. How it has
+perfected the art of procedural insulation. How it builds walls around verdicts—not because they
+are trustworthy, but because they are old.
+
+DNA, in this system, is threatening because it might demand that the machinery slow down. It might
+say: _This man should not die for what he did not do._
+
+In this case, the court did not order testing. It did not resolve the constitutional claim. But it
+cleared the fog of legal fatalism and said, at least, that the possibility of truth still has
+standing. That if science might call the state’s story into question, the law must not turn away.
+
+Gutierrez’s case now returns to the lower courts. The evidence remains untested. The verdict
+remains intact. But something essential has been reasserted in spite of the intransigence of the 5th
+Circuit and three extreme members of the court: that facts still matter. That a death sentence is
+not a license for indifference. That there remains, even now, a narrow place for light.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
