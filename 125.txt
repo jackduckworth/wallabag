@@ -1,0 +1,70 @@
+
+
+====================================================================================================
+
+Linux on TV? Plasma Bigscreen Gets Some Much-Needed TLC
+
+====================================================================================================
+
+[image]
+Plasma Bigscreen is KDE's open source TV ecosystem that once had a lot of potential but slowly fell
+off the radar.
+
+Originally launched in March 2020, IT AIMED TO TURN REGULAR TELEVISION SETS INTO SMART,
+LINUX-POWERED DEVICES with a clean, remote-friendly interface. But over time, development slowed,
+and it quietly slipped out of most Linux distribution repositories.
+
+Thankfully, it is making a much-needed comeback thanks to the work of Plasma Mobile contributor
+espidev (_Devin Lin_).
+[a photo that shows a big tv running the newly updated kde plasma bigscreen, the device is sat on a
+mantle, with two small external speakers beside it]_Source: espidev_
+Working on this over a week, Devin has made some solid progress bringing Plasma Bigscreen back to
+life. He started small by cleaning up the repository, adding a README file, a REUSE license checker
+in the continuous integration system, and porting the QML library to work as a declarative plugin.
+
+Next, he focused on the homescreen, INTRODUCING A MORE MODERN AND CLEANER DESIGN WITH A SIMPLIFIED
+LAYOUT THAT REDUCES VISUAL CLUTTER. He removed panel backgrounds and shadows where possible, added
+tooltips for the indicators, and added an "_expanded clock_" view that appears when users are at the
+top of the application categories.
+
+The clock automatically shrinks when users scroll down.
+[the search menu on plasma bigscreen with the search term "a", it is showing applications like
+angelfish, ark, alligator, audacity, akregator, aura browser, and armcord]_Source: espidev_
+Following that, he IMPROVED THE SEARCH MENU by redesigning the interface to be cleaner and more
+user-friendly. It is now powered by KRunner, allowing users to quickly find and launch apps or
+settings, making navigation faster and easier.
+[embedded content] _Source: espidev_ 
+Next, he turned his attention towards the settings menu, where work was done to simplify navigation
+by introducing a sidebar with a two-pane layout. Settings are now grouped into clear sections,
+making it easier for users to find and change options quickly.
+
+CONTROLLER SUPPORT WAS ALSO IMPROVED, with better navigation and button mapping for gamepads
+(_tested on an Xbox controller_), making it easier to use without a keyboard or mouse.
+[vacuumtube running on plasma bigscreen, on the same tv as before]_Source: espidev_
+Running applications downloaded from Flathub is possible too. Devin tested apps like VacuumTube,
+Kodi, SuperTuxKart, Jellyfin, and SuperTux. While this was A MIXED EXPERIENCE, he mentions that some
+apps worked well, but others need more work to run smoothly on Plasma Bigscreen.
+
+Looking ahead, there are still some unresolved issues to tackle, including improving TV remote
+support and polishing the app design. The main goal is TO GET PLASMA BIGSCREEN READY FOR INCLUSION
+IN THE PLASMA 6.5 RELEASE CYCLE.
+
+If you want to see these improvements firsthand, then you’ll need to build Plasma Bigscreen
+manually from the source code.
+
+Plasma Bigscreen (source code)
+
+VIA: OMG! Ubuntu
+
+️
+
+Here's why you should opt for It's FOSS Plus Membership:
+- Even the biggest players in the Linux world don't care about desktop Linux users. We do.
+- We don't put informational content behind paywall. Your support keeps it open for everyone. Think
+of it like 'pay it forward'.
+- Don't like ads? With the Plus membership, you get an ad-free reading experience.
+- When millions of AI-generated content is being published daily, you read and learn from real human
+Linux users.
+- It costs just $2 a month, less than the cost of your favorite burger.
+
+Become a Plus Member today and join over 300 people in supporting our work.
