@@ -1,0 +1,140 @@
+
+
+====================================================================================================
+
+I Started Carrying Something Small Around Every Day. It’s Changed Everything.
+
+====================================================================================================
+
+_Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+As I’m heading out the door, I always make sure I have my keys, phone, sunglasses, and ear
+protection. City life is loud, and I like to have my active noise-canceling headphones for the
+train, as well as some more noise-filtering earplugs, which are more discreet in restaurants. I want
+to be able to control my sound environment—and it’s never been easier.
+
+I’m not alone either. Society is having a reckoning about noise. Hearing is a sense we can’t
+physically turn off, and until recently, unless we were willing to cosplay as a construction worker
+by wearing ear defenders, we just had to suck it up. But as active noise-canceling technology goes
+from good to great, it’s become easier than ever to protect our ears from dangerous sound levels.
+Noise blocking has gone from yellow foamies to glittering style accessories seen all over this
+year’s Coachella. We’ve increasingly turned down the volume on the world—and our mental and
+physical health might depend on it.
+
+Cities can be dangerously loud. Normal activities like taking a train or walking down the street put
+you at risk of hearing damage. The New York subway can break 100 decibels as express trains roar
+through Union Square, while hectic restaurants easily buzz at over 80 decibels, approaching the
+danger zone. We can safely listen to 80 decibels for up to 40 hours a week, according to the World
+Health Organization. But at 90 decibels, the safe exposure window drops to four hours, and by the
+time the volume exceeds 100 decibels, which is most concerts, we risk the beginnings of hearing loss
+after just 30 minutes. (That ringing in your ears after a show—that’s a tiny bit of hearing
+damage.)
+
+Noise isn’t just bad for our ears. It can be harmful to the rest of our bodies, too, from our
+cardiovascular systems to our mental health. While we’re early in our understanding of its impact
+on the nervous system, research from the Johannes Gutenberg University Mainz in Germany, published
+earlier this year in the Journal of Exposure Science & Environmental Epidemiology, found that
+“harms of noise increase the susceptibility to mental health conditions such as depression,
+anxiety, suicide, and behavioral problems in children and adolescents.”
+
+“There’s definitely such a thing as listening fatigue,” Patricia Gaffney, president of the
+American Academy of Audiology and a professor at Nova Southeastern University in Florida, told
+Slate. “Whether it’s listening to stuff for work, or a lot of noises in your environment, it can
+get tiring. To block out some of those sounds in your world is a mental health break that can help
+reduce that overall internal meter of annoyance and fatigue.”
+
+Gaffney is pleased to see more people using ear protection. “Protecting your hearing up front is
+important for the long-term health of your ears and hearing over the lifespan,” said Gaffney. “I
+was recently at a really loud party at a local brewery, and it was nice to see the bartenders
+wearing earplugs. There was a woman there who had earmuffs on her baby. … People [increasingly]
+think about their hearing as an important part of their body that they need to protect.”
+
+This is especially true as ear protection is getting better and less compromising. In July, the
+U.K.’s Royal National Institute for Deaf People reported that a quarter of survey respondents were
+more willing to wear earplugs to concerts if sound quality wasn’t impacted. And while 35 percent
+still don’t plan to wear ear protection at their next live music event, the hearing-loss charity
+was optimistic about the direction of the trend.
+
+The increased use of ANC headphones and earplugs is a mass experiment in doing something new to our
+bodies, which has led to questions about whether there could be a hidden cost to sound control. A
+now-debunked BBC story went viral earlier this year for suggesting headphone use could be the reason
+behind the rising diagnoses of auditory processing disorder, a condition where the brain struggles
+to interpret signals from the ears, while other articles have suggested it could lead to tinnitus.
+While acknowledging that we don’t yet have any long-term data, Gaffney sees no reason to worry:
+“There isn’t any evidence that we are creating a long-term problem.” The only exception is if
+someone uses earplugs around the clock, which can lead to trouble handling regular noise levels.
+
+The biggest headphones-related risk is actually playing music or other content, such as podcasts or
+gaming, at too high a volume, which is exacerbated by the fact that we’re wearing headphones for
+more hours a day. A study from Stanford University, published in 2023 in the Journal of Clinical
+Medicine, found 17 percent of U.S. teenagers are showing signs of noise-induced hearing loss,
+primarily attributed to unsafe listening practices.
+
+The normalization of filtering earplugs in social settings could potentially act as a correction.
+Companies like Vibes, Eargasm, Alpine, and Loop have sprung up to feed a new market of earplugs as
+useful fashion accessories—it’s like sunglasses, but for ears.
+
+“Before we started Loop, it was accepted that earplugs are not cool,” Maarten Bodewes,
+co-founder of Loop, told Slate. “You don’t want to see them in your ears. We thought, you’re
+going to see them anyway, so why not make something that looks almost like jewelry?” Loops were
+initially marketed to music lovers for concerts, but instead of focusing on preventing hearing
+damage, the plugs were sold as a way to safely have fun.
+
+It was only when the pandemic hit and people stopped going out that Loop realized that customers
+were interested also for other reasons. “We [discovered] that people who were noise sensitive and
+neurodiverse were using them. Parents were a big use case, with kids being at home all day,” said
+Bodewes, adding people also slept in them.
+
+The growing trend of tools that render noise optional has had the welcome side effect of making
+spaces more inclusive. Anyone can be noise sensitive, like those suffering from migraines, while
+auditory sensory differences are especially common with neurodiversity such as ADHD and autism.
+
+RELATED FROM SLATE
+
+HEATHER SCHWEDEL
+
+IT’S ONE OF THE MOST REVOLTING BAD HABITS A PERSON CAN HAVE. THE SOLUTION IS JUST AS WEIRD.
+
+ READ MORE 
+“The neurodivergent brain takes in a lot more information,” Keren MacLennan, a researcher with
+the Centre for Applied Autism Research at the University of Bath, U.K., whose work focuses on
+sensory experiences and inclusivity, told Slate. “With the inability to filter that, it just
+stacks and stacks, until the point [of] overwhelm.”
+
+Meanwhile, technology is evolving along with consumer needs for silence. The core technology of ANC
+headphones has remained essentially the same since it was first introduced to the consumer market in
+2000, after Dr. Amar Bose invented the headphones for pilots in 1978. That means it’s typically
+all or nothing. “Right now, noise cancellation is a blunt tool, because either you shut everything
+off, or you let everything in. What we really need is the ability to let in what people are
+interested in listening to, while removing everything else,” Shyam Gollakota, a professor in the
+Paul Allen School of Computer Science and Engineering at the University of Washington, told Slate.
+He’s currently working on the Sound Bubble, his idea for “noise-canceling headsets which use
+real-time A.I. to program your acoustic scene.”
+
+Imagine, he says, that you want to hear the people talking at your table in the restaurant but not
+everyone else, or you want to block out your vacuum but still hear a knock on the door. Next
+generation ANC can discern which sounds are valuable to you and which are noise, and filter this in
+real time. “The future of it is going to be more fine-grained, where you are taking back control
+in terms of what and who you want to hear,” says Gollakota.
+
+But already, we have so much more power over noise than we’ve ever had before. On a recent night
+out to the club, I was surrounded by people wearing ear protection—I saw several filtering
+earplugs, a few old-school foamies, and even some AirPods, as ANC headphones can be used to bring
+ambient noise down to safer levels. As we moved through the crowd, I put in my own neon-yellow
+earplugs—we were headed right up front, and I could feel the bass through my body, but my ears
+were protected and I could hear exactly what I wanted.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
