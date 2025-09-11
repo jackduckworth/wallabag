@@ -1,0 +1,56 @@
+
+
+====================================================================================================
+
+Ubuntu Switches to Dracut With 25.10: What Does It Mean for You?
+
+====================================================================================================
+
+[image]
+It is only a matter of weeks before Ubuntu 25.10, the second interim release of the year, arrives.
+There are many niceties in store, like the inclusion of Linux kernel 6.17, two new default apps, and
+the removal of X11 in favor of Wayland.
+
+But back to the main topic, there is a notable change that sees Ubuntu switch its default initramfs
+generator from the long-standing initramfs-tools to Dracut.
+
+Initramfs-tools has served Ubuntu for decades, relying heavily on shell scripts. While reliable, IT
+CAN BE HARDER TO MAINTAIN AND EXTEND. Dracut offers A MODULAR APPROACH that simplifies updates and
+offers better support for modern hardware.
+
+With Dracut, new installations of Ubuntu 25.10 will generate the initial RAM filesystem
+(_initramfs_) automatically. Existing users can continue using initramfs-tools if needed, but the
+default experience now leverages Dracut’s modularity and maintainability improvements.
+
+The reasoning behind the move is said to be a focus on active upstream support, modular
+architecture, and systemd integration. Developers expect it to reduce boot complexity, improve
+maintainability, and provide a more consistent startup experience across machines.
+
+Dracut supports modern storage devices, encrypted filesystems, and advanced setups like NVMe over
+Fabrics. Its modular design ensures that only the required drivers and tools are included in the
+initramfs, creating a more streamlined boot process.
+
+For most users, the change will be seamless and mostly invisible. Boot behavior remains familiar,
+and even advanced configurations such as encrypted ZFS setups are now supported.
+
+This STRATEGIC MOVE ALSO SERVES AS PREPARATION FOR UBUNTU 26.04 LTS, allowing developers to gather
+real-world feedback and iron out any remaining issues before the next long-term support release.
+
+All things considered, this positions Ubuntu alongside the likes of Fedora and Red Hat Enterprise
+Linux, which have long relied on Dracut for quicker, more modular, and systemd-integrated boot
+processes.
+[embedded content]
+Join over 60,672 Linux Users on YouTube
+
+️
+
+Here's why you should opt for It's FOSS Plus Membership:
+- Even the biggest players in the Linux world don't care about desktop Linux users. We do.
+- We don't put informational content behind paywall. Your support keeps it open for everyone. Think
+of it like 'pay it forward'.
+- Don't like ads? With the Plus membership, you get an ad-free reading experience.
+- When millions of AI-generated content is being published daily, you read and learn from real human
+Linux users.
+- It costs just $2 a month, less than the cost of your favorite burger.
+
+Become a Plus Member today and join over 300 people in supporting our work.
