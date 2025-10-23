@@ -1,0 +1,204 @@
+
+
+====================================================================================================
+
+A Wikipedia Conference Took a Dark Turn. Unfortunately, It’s Not a Total Surprise.
+
+====================================================================================================
+
+_Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+When a man suddenly stormed the stage during the keynote speech at last weekend’s Wikipedia
+conference in New York, the audience of well over 100 volunteer Wikipedia editors was confused. Some
+thought the man was protesting the website’s nonprofit parent organization because the disruption
+came in the middle of remarks by Wikimedia Foundation CEO Maryana Iskander. Others wondered if this
+might be a bizarre but potentially harmless display of performance art.
+
+“We have so many haters on Wikipedia,” Molly Stark Dean, a Wikipedian and conference organizer
+who was sitting in the front row, told Slate. “I was like, _Which corner of the internet is this
+guy from?_”
+
+Then they saw his gun.
+
+According to several editors present at this year’s WikiConference North America, the next few
+moments felt both unnervingly long and remarkably fast. The armed man wore a sign around his neck
+that read “Anti-Contact Non-Offending Pedophile” and had a pink-yellow-and-white-striped flag
+draped over his shoulders that is used by individuals who call themselves “minor-attracted
+persons.” Speaking to the attendees, he said he intended to end his life to protest what he called
+Wikipedia’s “Don’t Ask, Don’t Tell” policy, referring to the site’s rule that editors
+who “identify themselves as pedophiles, will be blocked and banned indefinitely.”
+
+The man waved the gun—at his head, at the ceiling—until a man sporting a blue “Wikipedia
+Editor” baseball cap and a prominent beard wrapped him in a bear hug from behind. A second
+volunteer rushed the stage, grabbing the man’s arm and prying the weapon from his fingers. A
+senior law enforcement official later confirmed that the gun was loaded.
+
+Richard Knipel and Andrew Lih, the two men who averted the potential bloodshed, weren’t cops or
+professional security guards. Until Friday, they were known for their many volunteer contributions
+to Wikipedia and Wikimedia Commons, where they edit as users Pharos and Fuzheado, respectively.
+
+After the gunman was taken into custody by the New York Police Department, the two contributors were
+praised widely within the Wikipedia community—a group that, despite frequent claims to the
+contrary from figures like Elon Musk, spans the political spectrum. “Congratulations are due to
+Richard Knipel and Andrew Lih,” Yaron Koren, a longtime Wikimedian and political conservative,
+posted on Facebook. “Their actions showed courage, quick thinking and empathy.”
+
+Annie Rauwerda, the creator behind the popular @depthsofwikipedia social media accounts and a
+conference speaker the next day, posted that the volunteers were “heroes!” “Bold action and
+bravery for the common good is literally classic behavior of Wikipedia mods,” she wrote on
+Bluesky. Rauwerda also credited Jake Orlowitz, another long-standing editor, who rushed to the stage
+and talked the guy down before he was taken into police custody, offering what Orlowitz described as
+“mental-health first aid.”
+
+No question: The men who stopped the tragedy deserve every Wiki barnstar they’ve received. Yet the
+incident also highlighted broader concerns about safety for Wikipedia’s volunteer editing
+community. As UMass Amherst researcher Ryan McGrady noted on Bluesky: “The public does not
+understand how likely Wikipedians are to endure threats, harassment, and trauma for the crime of
+summarizing what other people write.”
+
+Friday’s incident wasn’t the first reminder that Wikipedia editing can potentially be dangerous.
+The website has an article titled “List of people imprisoned for editing Wikipedia,” which
+includes a Saudi Arabian volunteer sentenced to 32 years in prison for edits deemed “critical”
+of the government. A Belarusian editor was detained under the country’s censorship laws requiring
+citizens to describe Russia’s invasion of Ukraine as a “special military operation.” Across
+the globe, editors deal with harassment, lawsuits, and imprisonment for their work. This stark
+reality has inspired a meme: “Editing Wikipedia Is Not a Crime.”
+
+Oscar Costero, a Venezuelan Wikipedia editor who spoke at the conference on Sunday, described how
+the authoritarian government tightened its control of information in his country, beginning with the
+firing of professors and continuing with the closing of newspapers and TV stations. “Then they
+came for the Wikipedians,” he said. Costero himself became a target, facing legal threats and a
+doxing campaign that revealed his personal information, branded him an electronic extortionist, and
+painted Wikipedia’s volunteer editors as enemies of the people.
+
+In the U.S., the anti-Wikipedia rhetoric has also escalated. After Friday’s incident, some
+commentators on social media smeared Wikipedia editors as “friends” of the self-identified
+pedophile, even though his Wikipedia account had been blocked back in February. According to
+witnesses, the armed man was not wearing his sign and flag when he entered the venue, instead
+producing them later from his bag. Some online voices suggested that the volunteers should have let
+him go through with the threat rather than intervene, likening this intercession to an editor’s
+changing an entry’s tense from _is_ to _was_. Others applauded the choice to first disarm then
+deliver the individual to law enforcement, where he could hopefully receive mental health
+support. “Imagine: ‘wokepedia’ acting as decent, alert, brave, community minded citizens.
+What’s next?” posted Richard Cortado, a Portland writer, invoking an insult Musk has often used
+to disparage the site.
+
+Scholars say the recent attacks on Wikipedia differ from earlier critiques. As University of
+Washington graduate student Zarine Kharazian has written, in prior years the discussion focused on
+the content of the site. Commentators framed Wikipedia as a _battlefield_ of ideas, where users
+engaged in back-and-forth editing. More recently, the trend has been to make Wikipedia the target of
+attack, aiming to denigrate the site’s credibility without good reason or claim that it is
+controlled by a secretive cabal (instead of a cohort of thousands of volunteers that anyone can
+join).
+
+Hostility toward its volunteers has seeped into mainstream politics. Following the assassination of
+Charlie Kirk, Utah Sen. Mike Lee posted on X that Wikipedia editors have “gone out of their way to
+put the ‘wicked’ in Wikipedia.” Meanwhile, Tucker Carlson devoted nearly an entire 90-minute
+podcast episode to smearing the site, telling his audience, “There’s nothing more corrupt.”
+
+From what I saw personally at WikiConference in New York, as well as in my prior reporting of
+similar events, the majority of Wikipedia editors are people with a nerdy disposition and a sincere
+desire to compile and summarize accurate free knowledge for the common good. There are some
+disturbing exceptions to this general profile, to be sure, but for the most part, these editors do
+not fit the demonized caricature presented by the website’s loudest critics. (Disclosure: Like
+other participants, my attendance was subsidized in part by the Wikimedia Foundation.) The Wikipedia
+community shows its values in different ways: through the public courage of Knipel and Lih, and
+through quieter innovations like those offered by users like Bremps, who is working on a tool to
+feature an article most in need of improvement on Wikipedia’s main page.
+
+Of course, Wikipedians are human, and the harassment many of them receive can take its toll. “I go
+to therapy only for Wikipedia-related things,” Lane Rasberry, the Wikimedian in residence at the
+University of Virginia’s School of Data Science, told the conference. Every week, Rasberry tells
+his therapist about the latest threats and hostile messages he and fellow volunteers have received
+for Wikipedia work. Talking it through with another person provides some relief, he said, but “the
+harassment is still there. It’s still real.”
+
+Members of the Wikipedia editing community say the recent wave of hostility feels less like a
+good-faith debate over content and more like an initiative to hurt them personally or
+professionally. Earlier this year, the Heritage Foundation outlined plans to “identify and
+target” Wikipedia editors it accused of antisemitism. Jamie Flood, a former employee at the
+National Agricultural Library whose position was abruptly cut by DOGE earlier this year, told the
+conference that her own approach to training new editors has shifted. She once presented anonymity
+as optional, but now she strongly advises Wikipedia newcomers to edit under a pseudonym for their
+own protection.
+
+The conference was organized by Wikimedia New York City, with financial support from the Wikimedia
+Foundation. In the wake of Friday’s incident, editors advised the foundation to revisit its safety
+protocols. Looming over those conversations was the September shooting of Kirk, a reminder of how
+dangerous these large in-person gatherings can be, especially for individuals and organizations
+embroiled in the culture wars. “With all the $2 donations that pour into Wikipedia, they [the
+foundation] should probably have invested a bit more in security,” one Wikipedian, who asked to
+remain anonymous, told Slate. Wikipedia editors are not high-profile influencers with any sort of
+private protection, which makes common security measures like bag checks all the more necessary.
+
+A broader theme that emerged at the conference was a sense that editors do not feel adequately heard
+by foundation staff, whether on questions of who sits on the board of trustees or on questions of
+how the organization allocates financial resources. A few questioned whether the Wikimedia
+Foundation was taking threats seriously enough when they were raised by the site’s volunteer
+administrators and functionaries. In conversations with the editors about foundation leadership, the
+word _complacent_ came up repeatedly. With Iskander, its CEO, set to depart early next year, many
+said they hoped her successor would improve communications, legal support, and trust-and-safety
+functions, areas that fall clearly within the organization’s scope.
+
+RELATED FROM SLATE
+
+STEPHEN HARRISON
+
+WHY RIGHT-WING OUTLETS ATTACKED WIKIPEDIA AFTER CHARLIE KIRK’S SHOOTING
+
+ READ MORE 
+At the conference, attendees could choose stickers—green, yellow, or red—to indicate their
+comfort with being photographed. By my count, roughly half opted for the more cautious approach,
+hoping to avoid potential doxing. Concerns about personal safety surfaced even before the event
+began. Several editors traveling from abroad told me they worried about crossing the U.S. border,
+citing incidents such as the lengthy detention of Canadian Jasmine Mooney. Some said they had taken
+precautions like logging out of Wikipedia or deleting apps such as Discord because phones are
+routinely searched by border officials during this administration.
+
+As Wikipedia confronts increased hostility, some argue that it’s important to expand the site’s
+volunteer community. “Wikipedia is where facts go to live. Not perfect, but it’s better than
+anything humanity has ever done,” said Craig Newmark, the Craigslist founder and philanthropist,
+during Saturday’s session. He stressed the need for more editors from outside major hubs like New
+York and California, and talked about the new Wikicurious series, funded by Craig Newmark
+Philanthropies and organized by Wikimedia NYC. These Wikipedia training events have already been
+held in Austin, Charlotte, Dallas, and Miami, with more on the way. The goal, Newmark said, is to
+recruit new editors from across the country who may have different perspectives.
+
+During Sunday’s panel, Rasberry, the U of Virginia’s Wikimedian in residence, raised concerns
+about the House Oversight Committee’s proposal to investigate academics who upload research from
+their institutions to Wikipedia. “I don’t have anything to do with politics,” he said.
+“I’m just trying to take very conventional science information and put it up on Wikipedia.”
+
+Given the fear and heavy conversation following Friday’s events, it is perhaps easy to forget that
+the conference also had its moments of Wiki-joy. An attendee was “liveskying” the event, since
+livetweeting doesn’t feel right in the era of X. One session showcased Wiki-powered games,
+including a silly-but-brilliant example in which players are tasked with making their faces match
+the subjects of famously pensive portraits, like that of Empress Eugénie. And Rauwerda, of Depths
+of Wikipedia fame, kept the humor alive by spotlighting one of her favorite oddball articles: the
+Wikipedia page for a man literally named Bum Farto.
+
+While the weekend had its bright spots, the incident obviously loomed over the gathering, and one of
+the most sobering sessions came from McGrady, the UMass Amherst fellow. He reminded the audience
+that the history of encyclopedias has always involved conflict with different types of power.
+Contributors to Diderot’s _Encyclopédie_ were jailed for defying the Catholic Church. In the
+Soviet Union, encyclopedia editors risked prison or execution if they failed to toe the ideological
+line. Against that backdrop, McGrady argued, Wikipedia has long been an outlier. The crowdsourced
+free encyclopedia was unusual in history in that it never required permission from investors, state
+officials, priests, or kings. But that doesn’t mean that it’s beyond their reach. “Because
+Wikipedia wasn’t required to go to power for permission,” he said, “now we’re in the era
+where power has come to Wikipedia.”
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
