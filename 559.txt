@@ -1,0 +1,187 @@
+
+
+====================================================================================================
+
+What Daniel Naroditsky’s Death Reveals About the Chess World’s Dark Side
+
+====================================================================================================
+
+In his last Twitch stream, three days before his death at age 29 on Oct. 19, chess grandmaster
+Daniel Naroditsky was typically thoughtful and articulate—but there seemed to be something
+bothering him.
+
+“There’s a particular kind of comment that people from time to time express, which is always
+well intentioned. People who express this opinion are always doing it from a place of love,” he
+began, referring to a comment he had just seen on Reddit. “But I have an irrational, burning
+hatred of this opinion, which is based on complete and shocking ignorance of the situation. I really
+shouldn’t charge people with the crime of ignorance, and let it slide, but it can be hard
+sometimes.”
+
+For the past year, Naroditsky had been tormented by his childhood hero, former world champion
+Vladimir Kramnik, who insisted that Naroditsky was cheating while he played online. Chess computers
+(or “engines”) have been better at the ancient game than any human for more than two decades,
+and now many high-level engines are publicly available. Cheating in online games is easy enough. In
+slower games, players can simultaneously play their opponent’s moves against a computer in a
+separate window, and software exists to show computer-recommended moves overlaid on one’s own
+games, which saves needed time in faster formats. Algorithms on popular platforms like Chess.com and
+Lichess.org will quickly catch players making excessive use of engines, but employing them
+selectively can give cheaters a decisive and likely undetectable advantage.
+
+The comment that got under Naroditsky’s skin, however, was not another echo of Kramnik’s
+accusations. Rather it was a supporter saying that he should just brush the whole thing off.
+Naroditsky, measuring out his frustrated words while dueling other grandmasters on Chess.com in
+three-minute blitz games, explained that the number of people who believed Kramnik, while a
+minority, was “catastrophically, existentially high to the point where this is an imminent and
+incredibly sticky threat to my career.”
+
+He detailed the rationale behind his reputation-defending actions as if explaining the theory behind
+a chess move while he traded victories with similarly strong players. “Don’t let the people
+saying ‘Don’t let it get to you’ get to you,” he chuckled at one point.
+
+No cause of death has been announced. North Carolina’s Charlotte-Mecklenburg Police Department is
+investigating it as a possible overdose or suicide. Much of the chess community is pointing the
+blame for Naroditsky’s passing squarely at Kramnik, who has since been banned for life by
+Chess.com, due to his persistent bullying, often based on flimsy evidence, of Naroditsky and many
+others. Kramnik has denied any responsibility for Naroditsky’s death and even claims he never
+actually accused Naroditsky of cheating—rather, he claims that he was merely asking reasonable
+questions about his performance. That may be literally true, but it is difficult to watch
+Kramnik’s numerous videos on Naroditsky’s play, analysis, eye movements, and the like without
+concluding that Kramnik is implying that Naroditsky is cheating. Kramnik has also filed a complaint
+with the Geneva public prosecutor regarding “hundreds of terrifying private messages and public
+comments” he has received since Naroditsky’s death.
+
+In chess, a teacher can explain their moves—something Naroditsky was arguably the best at among
+YouTube creators—but even if the student doesn’t understand, the proof is in the result of the
+game. In the court of online commenters and murmurs among fellow players, there is no such final
+arbiter.
+
+“It wasn’t just Kramnik,” Dina Belenkaya, who holds the title of woman grandmaster and is a
+fellow streamer, told Slate. “It was all these other people who Danya was really looking up to,
+and they were all kind of his heroes, and they all turned against him.”
+
+That a former world champion like Kramnik was able to stir up agreement among some social media and
+message-board posters isn’t surprising. More perplexing is that he was able to do so among some of
+the game’s top players, who at least played footsie with the notion that Naroditsky cheated,
+despite speculative-at-best reasoning. The accuser’s key points included that Naroditsky sometimes
+looked to the side while he was thinking (Kramnik presumably thought he was peeking at a second
+monitor) and he seized on a certain move that Naroditsky said was “interesting” before opting
+for another, saying that no human would ever consider that move, which turned out to be the second
+choice of the engine. Grandmaster Ian Nepomniachitchi posted on X that he and his team couldn’t
+“explain” the move that Kramnik found suspicious.
+
+“Very few top players actually respect what streamers do,” Belenkaya, who believes there was
+motivated reasoning behind some of the suspicions, explained. “People were also jealous that he
+was popular, that people loved him.”
+
+Danya, as Naroditsky was often called, set up multiple cameras to show his setup while he played,
+and found numerous instances of top players making a move similar to the one that Kramnik
+highlighted. But it did little to dissuade those who thought he was getting illicit help, and it
+rankled him that those efforts weren’t appreciated more by certain people.
+
+“My mind goes to how he must have been feeling as the object of public humiliation in a community
+that he values so much and in a community that his self-worth and self-esteem are tied to,”
+psychologist Michael Stanton, of California State University, East Bay, told Slate. “The fact that
+the bully was someone that he held in such high regard makes it so much worse.”
+
+While we don’t know the cause of Naroditsky’s death, the context surrounding it has many
+speculating that it was the result of self-harm and suicide. According to Stanton, cyberbullying is
+associated with higher rates of self-harm than in-person bullying because it is not bound by a
+particular time or place. “The most consistent way that we, in a laboratory, induce stress is
+through something that’s unpredictable, social, and inescapable, which is exactly what
+cyberbullying is,” Stanton explained. “I almost can’t think of a worse psychological stressor
+than being bullied by a community that you value.”
+
+That community is now amid a reckoning. “What’s happening right now is really putting a
+spotlight on the consequences for people who might be revered in one part of chess and think that
+they can make accusations or speak freely without consequences in another arena,” Danny Rensch,
+chief chess officer for Chess.com, told Slate, “and they’re learning that they really can’t
+and never really should have.”
+
+In addition to fury at Kramnik, many in the chess community are directing their attention toward the
+sport’s governing body, FIDE, which is now reviewing Kramnik’s statements for potential
+disciplinary action. For some, this is too little, too late from an organization with a history of
+alleged corruption and reports alleging that it is acting as an extension of the Russian government.
+The bulk of those complaints came under FIDE president Kirsan Ilyumzhinov, who was also a Russian
+politician. Reforms under Arkady Dvorkovich (another Russian politician), who replaced Ilyumzhinov
+in 2018, have quieted many of those voices, but for some, the history still lingers. A petition
+calling for FIDE to ban Kramnik from all FIDE-sponsored tournaments and revoke his titles has more
+than 47,000 signatures. Woman grandmaster Nemo Zhou has called for a boycott of FIDE by players and
+sponsors until action is taken.
+
+“Danya Naroditsky is not the only person who’s been accused, and there are other people who have
+also been calling for FIDE to take action,” Rensch said. “I hope that this is something that
+actually wakes them up. They are the governance that the chess world has. They are not the
+governance that I believe the chess world deserves, and I hope that we have better days ahead.”
+
+Cheating accusations test the power of the accuser and the resilience of the accused. They can
+vanish quickly, linger, or, when certain toxic dynamics come together, end a career. Magnus
+Carlsen’s accusation against Hans Niemann in 2022 became a national story through a mix of factors
+including Carlsen’s stature as the world’s best player and the mystery of if and how Niemann did
+it, which inspired statistical analyses and endless social media fodder. (There were no mea culpas,
+but after a lifted ban from Chess.com and a settled lawsuit, Niemann is back to playing at the
+highest levels.) Others, such as Nepomniachtchi’s accusation against current world champion Gukesh
+Dommaraju (prior to him winning the title), barely caused a stir.
+
+What few want to acknowledge at the moment is that the chess world has sometimes leaned into
+scandal—it’s good for ratings, after all. A Kramnik tweet from May 2024 casting suspicion on a
+dozen players, including Naroditsky, resulted in the return of suicidal ideation for David Navara,
+one of the players mentioned. It also inspired two cash-prize matches between Kramnik and another of
+his accused, José Martínez, titled “Clash of Claims” and “Clash of Blames.” Martínez won
+the first match—a result that Kramnik blamed on technical difficulties during the online portion.
+Kramnik narrowly won the rematch. No serious analyst would say that either result proves anything
+regarding either player’s integrity, but all parties involved seemed happy to have the buzz,
+including Chess.com, which produced a half-hour documentary on the first match.
+
+As Naroditsky’s last stream progressed, he dropped the Kramnik discussion for feisty commentary on
+his games. Later, he started to nod off to sleep as time dripped off his game clock, which he would
+later chalk up to taking a Benadryl. Instead of quitting for the night, he dug in, growing ever more
+frustrated with his play, convinced that he could will himself into dominating his opponents. At
+around 1 a.m. Eastern time, following a well-crafted victory, someone off-camera told him to end the
+stream.
+
+RELATED FROM SLATE
+
+NITISH PAHWA
+
+THE WORLD’S GREATEST CHESS PLAYER’S STUNNING DEFEAT, EXPLAINED
+
+ READ MORE 
+It was then, in a moment that has echoed across social media, that Danya described the inescapable
+trap he found himself in.
+
+“The problem is, ever since the Kramnik stuff, I feel like if I start doing well, people assume
+the worst of intentions. Like, ‘Why did he end the stream? He suddenly started playing well.’
+You know what I mean?”
+
+The world of online chess made Naroditsky. It fed his compulsive desire to play, particularly in the
+fast formats at which he excelled, and gave him a platform to unfurl his layered understanding of
+the game. His rising stature, however, exposed him to the darker elements of life on the internet:
+cynical attitudes, nihilistic teardowns, simplistic posts willingly ignorant of nuance and
+context—the antithesis of everything he seemed to live by. Naroditsky had strong social ties, and
+was well respected publicly and privately, but the thin daggers of cyberbullying may have slipped
+past those defenses. The reasons our perpetually online world needs people like Naroditsky are the
+same ones that people like him can be torn apart by it.
+
+Before he signed off, he addressed his audience one last time: “Thanks for all the support through
+thick and thin. I will play a few more games, try to get that rating back up, and we’ll take it
+from there. Thanks, everybody. Be well, be healthy, be safe.”
+
+He would play the last of his 140,646 games on Chess.com four hours later against Nihal Sarin,
+another grandmaster who has been accused of cheating by Vladimir Kramnik.
+
+_If you need to talk, or if you or someone you know is experiencing suicidal thoughts, call the_
+_988 Suicide & Crisis Lifeline_ _or chat at_ _988lifeline.org__._
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
