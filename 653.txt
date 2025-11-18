@@ -1,0 +1,120 @@
+
+
+====================================================================================================
+
+Elon Musk Has His Own Encyclopedia Now. Well, We Read Some of the Entries …
+
+====================================================================================================
+
+A hallucinating encyclopedia may not be exactly what you’re looking for when you’re doing
+research, but that’s what writer Stephen Harrison found when he dug into Elon Musk’s new
+A.I.-powered Grokipedia.
+
+“It’s definitely not, like, an alternative encyclopedia,” Harrison said. “It’s got a lot
+of flaws.”
+
+Harrison’s area of expertise is Wikipedia. So it’s possible he’s biased here, but his
+criticisms are not small ones. I asked Harrison to pull up Elon Musk’s Grokipedia page. It is
+very, very long. But if you dig in, you’ll find some lines that are really telling. Grok portrays
+the Tesla CEO through stubbornly rose-colored lenses. While Grokipedia notes Musk’s social media
+leadership has been scrutinized, it also says criticism of him has come from ”legacy media outlets
+that exhibit systemic left-leaning tilts in coverage.”
+
+On a recent episode of What Next, host Mary Harris spoke to Harrison about how the emergence of
+Grokipedia is a symptom of something else entirely: a right-wing project to rethink truth
+altogether. This transcript has been edited and condensed for clarity.
+
+MARY HARRIS: IS GROKIPEDIA JUST A VANITY PROJECT FOR ELON MUSK?
+
+STEPHEN HARRISON: It’s hard to figure out what Grokipedia actually is. In some ways, there has
+been a lot of discussion about bias on Wikipedia. I wonder if Elon Musk sensed an opening and
+thought, “Well, I could take what we have from Grok.” Wikipedia’s information is available
+under a Creative Commons license—it’s freely licensed. He maybe saw the idea of an
+A.I.-generated encyclopedia and wanted to be first to market.
+
+WHY DOES THE INTERNET NEED A GROKIPEDIA? THERE’S ALREADY A WIKIPEDIA.
+
+I’m not sure that it does. The broader narrative here is that the far right is attacking all kinds
+of our traditional institutions, whether that’s academia, journalists, and now Wikipedia, and the
+thinking is that by deprecating the trust that people have in Wikipedia, they can point towards
+their own user-generated content, or Elon Musk can kind of put out his own narrative.
+
+ONE OF THE FUNNY THINGS ABOUT ELON MUSK CREATING HIS OWN A.I. VERSION OF WIKIPEDIA IS THAT ELON MUSK
+WAS A FAN OF WIKIPEDIA NOT THAT LONG AGO, RIGHT?
+
+Back in 2017, Elon Musk tweeted, ”I love Wikipedia, keeps getting better and better.” You
+couldn’t be more direct, right? In 2022, five years later, is when I really started to see a
+shift. He said that it’s “Wokepedia.” He offered to buy it for $44 billion. That led to all of
+the donor ads saying, “Hey, Wikipedia is not for sale. We’re an independent nonprofit.”
+
+A big part of the shift was the representation of himself on Wikipedia. He really did not like the
+word _investor_. He tweeted about that several times. He asked Wikipedia editors to remove the word
+_investor_. He sees himself as a thought leader and a visionary, and he really wanted that word
+removed.
+
+BASICALLY, HE WANTED TO TAKE THE TWITTER APPROACH. HE DIDN’T LIKE WHAT WAS GOING ON, SO HE WANTED
+TO BUY IT. BUT THAT WASN’T POSSIBLE.
+
+It’s funny. He hates the word _investor_, but that’s his move. He buys it.
+
+WHAT DO WE KNOW ABOUT THE POPULARITY OF GROKIPEDIA, THIS NEW SITE HE’S CREATED? IS IT LEGITIMATELY
+A COMPETITOR FOR WIKIPEDIA AT THIS POINT?
+
+I don’t think so, and there are a couple of reasons. Just even on X, I see a lot of blowback to
+Grokipedia. And I think of X as a place where a lot of Elon’s most vocal supporters tend to post.
+But they’re saying, “Hey, I’ve identified a lot of errors. This page is very lengthy, but
+it’s got meaningless A.I. slop in it.” People are saying that it reads like a LinkedIn page,
+which would make sense because it’s pulling from user-generated content as opposed to the more
+traditional news media sources.
+
+And we know now that when a large language model is trained on A.I.-generated content, it has
+what’s called “model collapse,” and it ultimately really suffers. So there’s a real concern
+here for Elon Musk that if his Grok is trained on Grokipedia, then that could lead to the collapse
+of Grok.
+
+IS IT SORT OF LIKE A MIMEOGRAPH, WHERE THE MORE YOU COPY IT, THE FUZZIER THE IMAGE GETS?
+
+Yes, it gets more and more fuzzy, and it gets more and more of these hallucinations because it’s
+just predicting what it thinks you want and not what’s actually based on an original source text.
+
+I GUESS I HADN’T REALLY REALIZED HOW POLITICAL ENCYCLOPEDIAS COULD BE.
+
+I think an encyclopedia reflects a worldview, or aims to. It’s making a claim on neutrality,
+right? Like, this is a neutral point of view. It’s trying to present information accurately. And
+people who do not like that accurate, curated version that appears on Wikipedia, they’re going to
+be angry about that. So, anybody who’s making a claim that what they’re working on is accurate
+is automatically in the firing line.
+
+Ultimately, any government that is trying to control information, they want the universities, they
+want national news, they want news media, and then they want Wikipedia.
+
+ONE THING I’VE NOTICED DURING TRUMP 2.0 IS THAT SOME PARTS OF THE INTERNET SEEM MORE ROBUSTLY
+DEMOCRATIC THAN OTHERS. LIKE, IF I LOOK AT REDDIT, IF I LOOK AT WIKIPEDIA, TO ME WHAT’S HAPPENING
+THERE SEEMS MUSCULAR AND DRIVEN BY HUMAN BEINGS. BUT THEN I LOOK AT TWITTER AND FACEBOOK, AND
+THEY’VE SWUNG IN THESE EXTREME WAYS, POLITICALLY. WHAT DO YOU THINK OF THESE MORE ROBUST SITES, IF
+YOU AGREE THAT’S WHAT THEY ARE—WHAT DO THEY SHARE?
+
+A big piece of it is that they have a higher purpose. Wikipedia editors, when they’re acting at
+their best, they really do believe that there’s something more than partisan politics—and
+that’s the accurate reflection of reliable sources. That higher purpose can bring together people
+of different politics.
+
+One of the things I’m trying to make clear in my reporting is that Wikipedia is not a political
+monolith, one way or the other. I certainly know Wikipedians who are conservative. There’s a lot
+of discussion about Gen Z men. Well, they’re the ones sometimes that are sending me Signal
+messages and are very active on Wikipedia. So, it’s just a fake narrative that’s being pushed by
+Elon Musk and others that Wikipedia is a bunch of liberals. It’s just not true.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
