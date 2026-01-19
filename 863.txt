@@ -1,0 +1,203 @@
+
+
+====================================================================================================
+
+Ed Zitron on big tech, backlash, boom and bust: 'AI has taught us that people are excited to replace human beings'
+
+====================================================================================================
+
+If some time in an entirely possible future they come to make a movie about "how the AI bubble
+burst", Ed Zitron will doubtless be a main character. He's the perfect outsider figure: the
+eccentric loner who saw all this coming and screamed from the sidelines that the sky was falling,
+but nobody would listen. Just as Christian Bale portrayed Michael Burry, the investor who predicted
+the 2008 financial crash, in The Big Short, you can well imagine Robert Pattinson fighting Paul
+Mescal, say, to portray Zitron, the animated, colourfully obnoxious but doggedly detail-oriented
+Brit, who's become one of big tech's noisiest critics.
+
+This is not to say the AI bubble _will_ burst, necessarily, but against a tidal wave of AI
+boosterism, Zitron's blunt, brash scepticism has made him something of a cult figure. His tech
+newsletter, Where's Your Ed At, now has more than 80,000 subscribers; his weekly podcast, Better
+Offline, is well within the Top 20 on the tech charts; he's a regular dissenting voice in the media;
+and his subreddit has become a safe space for AI sceptics, including those within the tech industry
+itself – one user describes him as "a lighthouse in a storm of insane hypercapitalist bullshit".
+
+Zitron first started looking into generative AI in 2023, a year after the industry-shaking launch of
+OpenAI's ChatGPT. "The more I looked, the more confused I became, because on top of the fact that
+large language models (LLMs) very clearly did not do the things that people were excited about, they
+didn't have any path to doing them either," he says. "Nothing I found made any suggestion that this
+was a real business at all, let alone something that would supposedly change the world."
+
+He's talking over videocall from his office in Las Vegas, dressed in a red hoodie, surrounded by
+framed pop-culture prints and American sports memorabilia. And boy can Zitron talk. As listeners to
+Better Offline will know, the 39-year-old is a prodigious speaker – adept at extended monologues,
+putting his point of view across in accessible, often cheeky language, peppered with facts,
+statistics, analogies and a fair few expletives, in a London accent that only accentuates his
+position as a Silicon Valley contrarian – someone who drops his Ts when he says "datacentres".
+
+Explaining Zitron's thesis about why generative AI is doomed to fail is not simple: last year he
+wrote a 19,000-word essay, laying it out. But you could break it down into two, interrelated parts.
+One is the actual efficacy of the technology; the other is the financial architecture of the AI
+boom. In Zitron's view, the foundations are shaky in both cases.
+
+First, there's the matter of generative AI doing what it's promised to do. Over the past few years
+we have had escalating prophecies of the technology laying waste to work as we know it. Dario
+Amodei, the CEO of Anthropic – OpenAI's closest rival – warned in May last year that AI could
+wipe out half of all entry-level white-collar jobs within the next five years, for example. "The
+current generation of AI large language models will not be doing that," Zitron says confidently. "My
+evidence is they're basically the same as they were a year ago. They have the same efficacy. And
+every attempt they make to try to turn these into something that can actually do things autonomously
+has failed." LLMs hallucinate and give wrong answers, they give different answers every time, they
+cannot really _learn_, or create, or perform a lot of complex tasks, he argues. He questions even
+describing this technology as "intelligence".
+
+"It's intelligent in the same way a pair of dice are intelligent," he says. "Large language models
+are transformer-based architecture that use large-scale probability to generate the next token. Now
+they do this at scale, so you might think, 'Oh, it's coming up with things.' No, it has a large
+corpus of data, and so many parameters that it pulls from to generate an output. That is all that
+is. We would not credit an Excel formula with intelligence, and we should not credit generative AI
+as intelligent."
+
+Obviously, many people disagree with Zitron, especially when it comes to AI replacing jobs. In
+industries from film-making to customer service to government agencies to tech itself, insiders say
+AI tools are enabling them to do the same things with fewer people. Even if it doesn't replace 50%
+of jobs, its effect on the workplace is likely to be transformative. A survey last June found that
+entry-level jobs had dropped by nearly a third in the UK since the launch of ChatGPT.
+
+Zitron argues that "correlation does not equal causation" and points to reports that suggest the
+role of machine learning in job cuts is either unproven or overstated. A recent MIT report into the
+"state of AI in business in 2025", for example, found that 95% of companies attempting to integrate
+AI in their businesses were getting "zero return". "Most GenAI systems do not retain feedback, adapt
+to context, or improve over time," it said.
+
+That leads to the second part of Zitron's argument: that the economics of the AI boom just don't
+stack up. The amounts of money pouring into AI investment are unlike anything the world has ever
+seen. The "magnificent seven" – Alphabet (parent company of Google), Amazon, Apple, Meta,
+Microsoft (which owns 27% of OpenAI), Nvidia and Tesla – currently make up 34% of the S&P 500, the
+US stock market index that represents about 50% of the global market. As the dominant manufacturer
+of GPUs (graphics processing units – the extremely powerful chips on which AI depends), Nvidia is
+practically "printing money", says Zitron, but at this stage everyone else is borrowing and spending
+billions they may never recover.
+
+[A construction worker in front of Nvidia's office]
+This is the way Silicon Valley startups have always operated, you could say: operate at an initial
+loss with a view to establishing market share and reaping profits further down the line. But the
+current disparity between supply and demand is worryingly huge. When it comes to AI, you need to
+build big and spend big. A typical datacentre requires tens of thousands of GPUs, with each GPU
+costing upwards of $50,000 (£37,000). Then you need the software and networking to knit them all
+together, a giant building on a vast plot of land to put it all in, and huge amounts of electricity
+and water to run it all. The cost of 1GW of AI datacentre capacity is estimated at $35bn (£26bn).
+As such, the major players in this business are the deep-pocketed "hyperscalers" like Google, Meta,
+Amazon, Microsoft and Oracle.
+
+When you look at the demand side, the picture is less rosy, and a lot more hazy. OpenAI alone has
+committed to spending $1.4tn (£1tn) on AI infrastructure over the next five years, for example, but
+its revenue for 2025 is expected to be about $20bn (£15.8bn). There seems to be a constant carousel
+of deals and agreements between AI companies, but when you look at it, says Zitron, much of the time
+these companies are essentially paying each other. Nvidia, for example, announced a $100bn
+investment in OpenAI last September; in return, OpenAI will use the cash to buy Nvidia chips.
+Similar deals abound in this space, as Zitron has forensically detailed. Even with non-magnificent
+seven "neocloud" companies, like CoreWeave, Lambda and Nebius, which build datacentres then rent out
+their GPU capacity to others, the bulk of their business is coming from the likes of Google,
+Microsoft, Amazon and Nvidia, Zitron says. "When you remove the hyperscalers, there's less than a
+billion dollars total in AI compute revenue in 2025."
+
+As for the profitability, ChatGPT now has an estimated 800 million users, but the vast majority of
+them are paying nothing. Even for paying subscribers, "when you connect a user to an AI model like
+GPT, each thing the user does varies in expense vastly. A user could ask a very simple question, or
+they could ask a question that the model interprets as needing a complex answer," Zitron says. There
+are no economies of scale here; each question requires "compute" – as in computer processing
+activity – at the supplier's expense. "The more someone is a power user of these platforms, the
+more they're going to cost you. This is almost the inverse of how the valley works." And if the
+answer is not satisfactory and must be reformulated, as is often the case, "that's more compute
+burned, making you no extra money". AI models are getting cheaper and more sophisticated all the
+time, we are told, but only by using more compute. "It's like the price of petrol going down a bit,
+but you have to drive another 250 miles to get somewhere. So this is really problematic – because
+it means that there is no profitability point."
+
+[Datacentre in a barren landscape]
+Again, none of this means the great AI crash will happen, but "if I'm wrong, I don't know how I'm
+wrong," he says. "Every counter I've read to my work is mostly just wishcasting of 'and then the AI
+gets better'."
+
+Many have accused Zitron of having an axe to grind against big tech, but he refutes that: "I have an
+axe to grind against those who don't want to talk about reality." He certainly doesn't shy away from
+attention, but that's not why he got into this business, he explains. "I like writing. I like
+pulling things apart. I like solving puzzles. I guess I like being able to understand things. A lot
+of this is just me trying to explain it to myself, rather than an audience." He had no formal
+training in economics or computer science and has never worked in tech. "I've learned basically
+everything from the ground up."
+
+Zitron has, it seems, always been technological though. He has built 10 personal computers over his
+lifetime, he says. It started when his father bought him a PC card with a dial-up connection when he
+was 10. "So I was online from quite an early age. I immediately was just like, 'This is the future.
+I adore this. I love that I can talk to people and game with people.' I was quite a solitary child.
+I didn't have a lot of friends, but I made a lot of friends online."
+
+Growing up in Hammersmith, west London, his parents were loving and supportive, Zitron says. His
+father was a management consultant; his mother raised him and his three elder siblings. But
+"secondary school was very bad for me, and that's about as much as I'll go into." He has dyspraxia
+– a coordination disability – and he was diagnosed with ADHD in his 20s. "I think I failed every
+language and every science, and I didn't do brilliant at maths," he says. "But I've always been an
+asshole over the details."
+
+After studying media and communications at Aberystwyth University, he began writing for gaming
+magazines, but "I got to a point where I was miserable in London." So he relocated to New York in
+2008 and began working in tech PR. He can't contemplate returning to the UK, he says. He doesn't
+talk about his personal life beyond saying he has a son, which is why he lives in Las Vegas. He
+doesn't mind it there: "Everyone's weird so no one's weird." It has been reported that he is twice
+married and twice divorced.
+
+Zitron continues to work in tech PR, which seems jarringly at odds with his career as a tech
+agitator – either like biting the hand that feeds him or a conflict of interest. He doesn't see it
+like that. He doesn't have AI clients, or work with big tech, he says, and only has a few clients
+now. The work has given him a network of contacts in the industry, and possibly helped him to market
+himself (in 2013 he published a book titled This Is How You Pitch: How To Kick Ass in Your First
+Years of PR). He may not be doing the PR stuff much longer, though. The media side of things is
+"making up more of my income these days than I ever expected it to". He's writing a new book, due
+out next year, called Why Everything Stopped Working. "It's kind of a dig into how the world got the
+way it did and technology is everything now." Just one chapter is about AI, he adds.
+
+If Zitron does have an axe to grind, it's against neoliberal capitalism in general: "I don't think
+people have taken seriously enough how bad deregulation of financial markets, by Thatcher, by
+Reagan, was. I don't think people take seriously enough how bad it was not putting people in prison
+for the great financial crisis … I don't think people have taken seriously the threat of
+growth-focused capitalism and growth at all cost."
+
+Rather than leading us to a utopian future, Zitron sees AI as the logical conclusion of
+neoliberalism. "The biggest thing we've learned from the large language model generation is how many
+people are excited to replace human beings, and how many people just don't understand labour of any
+kind," he says.
+
+Zitron is no longer quite so alone in his assessment. He's on the same page as Cory Doctorow, for
+example, who has appeared on his podcast, and whose "enshittification" thesis also alleges that tech
+companies are now more motivated by profit than making more useful products. Meanwhile, other AI
+sceptics, such as cognitive scientist Gary Marcus, complain they have been making the same arguments
+as Zitron "but in his narrative, I don't exist". Either way, the backlash to AI is building: local
+groups are opposing the construction of environmentally destructive datacentres; consumers are
+grating against the insertion of AI into every conceivable product; creators are taking legal action
+against the industry's theft of their work; there is public outrage over social media harms,
+epitomised by Elon Musk's Grok creating nonconsensual borderline-deepfake porn.
+
+[Zitron on stage at the Web Summit 2024 in Lisbon.]
+Meanwhile, speculation about the AI bubble bursting continues to grow. Now everyone from the Bank of
+England to Microsoft boss Satya Nadella are raising the alarm. Michael "Big Short" Burry says he is
+betting against Nvidia, and recently the New York Times ran an op-ed speculating that OpenAI will
+run out of money within the next 18 months. It could be sooner than that, Zitron thinks: this month,
+the big tech companies start reporting their annual earnings for 2025. Most of them have been cagey
+about their revenues from AI specifically, he says. "Why would they do that? Well, because they're
+not very big. So this whole thing is – to use a phrase I hate – it is a _vibe_." If something
+serious happens, like Nvidia missing its targets, it could prompt a rethink of the whole sector, and
+possibly a new global financial crisis. All those datacentres might well end up as empty shells.
+Ultimately, we could be witnessing "the largest laser-tag arena construction of all time," he jokes.
+
+Zitron doesn't actually enjoy being contrarian, he insists. "It isn't fun being alone in an idea,
+which is actually why I think a lot of people are pro-AI, because it's much easier to do that."
+
+He doesn't hate tech, or even AI, he says. "I love technology, but I hate what the tech industry is
+doing … If you can't critique this stuff without it being claimed that you don't support the world
+or innovation, I think you realise we're in this weird peasant economy where even wealthy,
+well-to-do famous people have to kneel at the feet of these companies. And these companies have done
+very little to make our lives better, all while making so much more money than we will ever have."
+
+He just wants to tell it like it is. "It'd be much easier to just write mythology and fan fiction
+about what AI could do. What I want to do is understand the truth."
