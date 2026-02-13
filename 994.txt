@@ -1,0 +1,148 @@
+
+
+====================================================================================================
+
+The Ice Dancing Judging Scandal That Has American Fans Furious
+
+====================================================================================================
+
+_Read more of Slate’s 2026 Olympics coverage __here__._
+
+On Wednesday in Milan, French figure-skaters Laurence Fournier Beaudry and Guillaume Cizeron
+narrowly won gold in their first Olympics as an ice-dancing pair. When the final scores came down,
+American figure skating fans cried out with one voice: _Madison Chock and Evan Bates got screwed!_
+
+This hue and cry might seem like predictable patriotic grumbling. Yes, the beloved U.S. duo, who
+lost out on gold by a measly 1.43 points, skated a scintillating _toreador_-themed free dance. But
+Fournier Beaudry and Cizeron were mesmerizing too, with Slate’s Chris Schleicher describing their
+dance as “frankly magnificent” and “the most aesthetically beautiful” performance of the
+night.
+
+And yet, there might be something to the thesis that Chock and Bates got robbed. Although the
+American skaters had a lower total score than their French competitors in the free skate, five of
+the nine individual judges preferred Chock and Bates to Fournier Beaudry and Cizeron. Of those nine
+judges, eight gave the American duo a score that exceeded 130 points. The one judge who scored Chock
+and Bates under the 130-point line? France’s Jézabel Dabois. On the flip side, the French Dabois
+gave the French duo a dizzying 137.45 points, _7.71 more_ than she awarded Chock and Bates.
+
+_J’accuse!_
+
+Well, hold on. Before we decree that this Jézabel should be thrown to the dogs by the wall of
+Jezreel, it’d help to understand how Olympic figure skating works. In 2004, in the wake of a
+(coincidentally _also_ French-related) judging scandal at the 2002 Salt Lake City Games, figure
+skating’s governing bodies adopted a new methodology called the International Judging System. The
+IJS was meant to bring transparency and specificity to a process that had for too long been rooted
+in subjective opinion. While the IJS isn’t perfect—if it were, I wouldn’t be writing this
+article—it’s still much better than the old 6.0 system.
+
+The IJS evaluates skaters across two separate categories: technical elements and program components.
+On the technical side, each planned element of a skater’s routine—the various jumps and twizzles
+and such—is assigned a base value that rises or falls based on the element’s difficulty. Then,
+depending on how well (or how badly) that element is executed, judges can add or subtract points
+from that base value. The highest and lowest marks for each technical element get tossed out. The
+remaining scores are then averaged to arrive at a skater’s final technical element score.
+
+The second category, program components, assesses the artistry of the performance. These scores are
+inherently more subjective, so there are no base values at work here. Instead, judges award total
+scores across three subcategories, in 0.25-point increments on a 10-point scale. Again, the highest
+and lowest scores for each program component get tossed, while the remaining values are averaged and
+multiplied by a set factor—in ice dancing, it’s a factor of 2—to arrive at the final program
+component score.
+
+In Olympic competition, the judging panel is made up of nine separate judges from nine different
+countries. I will once again emphasize that in _all_ internationally sanctioned figure skating
+competitions the highest and lowest scores for each technical element and program component get
+thrown out before the remaining scores are averaged. These exclusions are meant to ensure that no
+outlier score can unduly skew the mean. It’s basic statistical hygiene, people!
+
+Now, back to the Chock-Bates contretemps. The French judge in question, Dabouis, scored Chock and
+Bates at 9.5 in each of the three program-component subcategories, for a cumulative score that was
+tied for the lowest mark they received from any of the nine judges. (Dabouis is “J1” in the
+document linked above.) When it came time for her to score Fournier Beaudry and Cizeron, though,
+Dabouis scored their program components higher than any of the other eight judges. _Très mal, non?_
+
+But hang on a moment. There was also an American judge on the free dance scoring panel—Janis
+Engel—and, sure enough, she gave Chock and Bates the _highest_ combined technical/program score of
+all nine judges. (For what it’s worth, Engel gave Fournier Beaudry and Cizeron their
+_third-lowest_ combined technical/program score.)
+
+But hang on _another_ moment. The Spanish judge on the panel, Marta Olozagarre, gave the Spanish
+ice-dance pair of Olivia Smart and Tim Dieck by _far_the highest cumulative score that they received
+from the judging panel. And the Italian judge, Isabella Micheli, gave the Italian ice dancers
+Charlène Guignard and Marco Fabbri by far their highest cumulative score. Same thing with Canadian
+judge Leslie Keen and the Canadian ice dancers Piper Gilles and Paul Poirier.
+
+In fact, according to the “National Bias-O-Meter” found on the invaluable website
+Skatingscores.com, every single 2026 Olympic ice dancing judge, except perhaps for the Finnish
+judge, displayed various degrees of scoring bias in favor of skaters from their home countries. (Way
+to go, Finland!) Additionally, a statistical analysis of long-term trends in figure-skating scoring
+published several years ago determined that 92 skating judges “showed statistically significant
+evidence of nationalistic bias.” Among them were five of the nine judges on Wednesday’s free
+dance panel—including the Finnish judge. (How dare you, Finland!) And one of the other four
+judges, China’s Huang Feng, was suspended from for a year by the sport’s governing body after
+allegedly favoring Chinese skaters at the 2018 Pyeongchang Games.
+
+An academic research paper on the topic, presented by Vincent Dumoulin and Hugues Mercier at the
+2020 MIT Sloan Sports Analytics Conference, found that nationalistic bias in skating judging “is
+endemic, and for many judges larger than all the other sources of judging errors.” Even so, it’s
+not necessarily true that all these figure skating judges are intentionally skewing things. It could
+be that at least some of them are favoring their compatriots unconsciously.
+
+But even if some judges _are_ actively rooting for the home team, since the highest and lowest
+technical element and program subcomponent scores get tossed, there’s really no harm, no foul,
+right? Well, yes and no. Extreme outliers can still end up affecting an entrant’s final score, by
+ensuring that “regular” low scores that would have otherwise been dropped are still included in
+the final average.
+
+In the specific case of Fournier Beaudry and Cizeron versus Chock and Bates, the scores were so
+close that it’s unfair to claim that biased judging pushed the French duo into gold-medal
+position. But there is a broader point to be made here, which is that the International Skating
+Union still has a long way to go to ensure the integrity of its judging system.
+
+In their 2020 paper, Dumoulin and Mercier found that “current ISU judge monitoring is utterly
+inadequate,” which the more recent data on nationalistic bias would seem to confirm. At the very
+least, it seems obvious that figure-skating judges ought to recuse themselves from judging skaters
+from their home countries. Even if everyone is well-intentioned, the perception of conflict of
+interest is overwhelming. When Team USA takes the ice, the judge from the USA should be required to
+step outside for a smoke break. _But what if the American judge doesn’t smoke?_ Too bad for them!
+Rules are rules.
+
+There are other changes that could be made, too. Dumoulin and Mercier suggest that the ISU “can
+solve most of its judging problems with mathematically sound long-term monitoring.” But the ISU
+could also contemplate other fixes that _don’t_ involve math.
+
+Perhaps there could be a neutral judge on hand from a country that isn’t represented in the
+competition, waiting in the wings to step in whenever a given judge must step aside. Perhaps figure
+skaters could get a set number of “challenges” per season, to be deployed when a given judge’s
+score seems especially egregious. Or maybe judges should have to deliver their feedback to the
+skaters in real time, in the manner of the sassy panelists on shows like _American Idol_ or
+_Chopped_. And at the very least, if you’ve been suspended by the ISU for alleged nationalistic
+bias, then maybe you shouldn’t be allowed to be an Olympic judge again.
+
+Or maybe I should just get to pick the winners. After all, I’ve never been accused of
+nationalistic bias, or even of knowing very much about figure skating. My first act will be to
+elevate Finnish ice dancers Juulia Turkkila and Matthias Versluis from 12th place to gold-medal
+position. I just think they deserve it, OK. Now leave me alone—I have an appointment to get my
+Finnish passport.
+
+RELATED FROM SLATE
+
+JOCELYN JANE COX
+
+WHEN YOU’RE ABSOLUTELY, DEFINITELY NOT IN LOVE WITH YOUR ICE-DANCE PARTNER
+
+ READ MORE 
+
+GET THE BEST OF CULTURE
+
+ Get the best of movies, TV, books, music, and more. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the Culture newsletter. You can manage your newsletter subscriptions at
+any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
