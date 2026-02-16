@@ -1,0 +1,149 @@
+
+
+====================================================================================================
+
+Session's Co-Founder Thinks You Don't Need to Ditch WhatsApp Completely
+
+====================================================================================================
+
+[Warp Terminal]
+The world around us is gradually getting more polarized, with people losing hope that their
+governments can take them through these turbulent times. As a result, we are seeing more and more
+people switching to decentralized social media platforms.
+
+Session is one such service that offers encrypted messaging without requiring a phone number or
+email address to sign up. Their onion-powered routing system makes use of ~2,000 nodes to ensure the
+utmost levels of privacy.
+
+We spoke with Alexander Linton of the Session Technology Foundation back in December, and now we're
+talking with Session's Co-Founder, Kee Jeffrys, who shares some interesting insights from the
+technical and founding side of things.
+
+WHAT GOT YOU INTO PRIVACY TECH?
+
+While I was studying computer science at university, one of my lecturers briefly mentioned Bitcoin
+as a real-world application of public key cryptography. That sent me down a rabbit hole. Not because
+of price, but because of the underlying idea that cryptography could give individuals real control
+rather than forcing them to trust institutions by default.
+
+Around the same time, I started attending crypto meetups and met the people who would later become
+my co-founders at Session. We were all looking at early decentralized and privacy-focused
+technologies like Tor, Bitmessage, Monero, and Zcash and asking the same question: IF THESE IDEAS
+WORK FOR MONEY AND ROUTING TRAFFIC, WHY ARE MOST COMMUNICATION TOOLS STILL CENTRALIZED AND EASY TO
+SURVEIL?
+
+I was still thinking about that question. The infrastructure of messaging is extremely delicate. It
+is typically run by a single company in a single jurisdiction, but it carries journalism, activism,
+legal work, and our regular private conversations. Our goal was to determine whether it was feasible
+to create a messaging system that didn't require users to have faith in any particular business,
+server, or nation.
+
+In 2018, about a year and a half into my degree, I began working on Session and postponed my studies
+to devote all of my time to focus on decentralized and privacy preserving technology, driven by the
+belief that private communication should not be a luxury only for powerful or rich individuals, or a
+niche feature for the tech-savvy, but a default for all of us.
+
+WHEN DID YOU KNOW SESSION WAS GOING TO BE MORE THAN JUST A PROOF OF CONCEPT?
+
+I think it stopped feeling like a proof of concept when we saw people rely on it in situations we
+never could have simulated.
+
+Since founding Session, we started working with a number of digital rights NGOs around the world,
+talking to them about Session and providing resources to help them use it to protect their comms.
+
+In October 2022, as civil unrest was worsening in Iran following the death of Mahsa Amini, Signal
+was blocked by the Iranian government. The NGOs we had onboarded to Session then pushed the app to
+their networks, which LED TO A DOMINO EFFECT THAT ULTIMATELY CAUSED OUR USER BASE TO DOUBLE
+OVERNIGHT.
+
+This was one of the moments when we saw our vision materialised. Session helping activists and
+journalists communicate with freedom. That was when it became clear this was not just an experiment
+anymore. It was something people could genuinely depend on.
+
+HOW DOES SESSION HANDLE REQUESTS FROM GOVERNMENTAL AGENCIES?
+
+The Session Foundation records all information requests from governments and releases an annual
+_Transparency Report_ with aggregated information about those requests and how they were handled.
+Transparency reports can be found here.
+
+The Session Foundation’s response to all requests for personal information of users starts with an
+explanation that the design of Session prevents the collection of user data and metadata at the
+network level by the Session Foundation. This LIMITS THE SESSION FOUNDATION'S ABILITY TO PROVIDE THE
+TYPE OF DATA AND METADATA TYPICALLY REQUESTED BY GOVERNMENTS.
+
+The contents of messages in Session are end-to-end encrypted and communicated through a
+decentralized onion-routed network, which means that there is no way for the contributors working on
+Session to discover the content of a message nor the IP address and other personal identification
+information of users sending or receiving messages on Session.
+
+Because of these constraints, thus far, all legal requests have resulted in the Session Foundation
+lacking access to any of the requested data, with the foundation responding to these requests
+accordingly.
+
+For example, between Jan 1 and Dec 2025, THERE WERE 17 REQUESTS OR INQUIRIES FROM GOVERNMENT
+AGENCIES. For all of these requests, the requested data was not available to the Session Foundation,
+preventing any user data from being shared.
+
+Pro Beta features have been completed and are now progressing through quality assurance processes.
+We will roll out the Pro Beta in two parts. The first release will contain all of the code required
+for clients to recognize other users as _Pro_.
+
+It will also include support for all of the initial Session Pro Beta features, such as badges,
+increased message pinning limits, animated profile images, and the ability for Pro users to send
+longer messages. Technically, these features are already released — but they are behind feature
+flags.
+
+With this release, these feature flags will be removed, and the features will effectively be
+‘_in_’ Session. The second release will be the official beta launch, AS USERS WILL IMMEDIATELY
+BE ABLE TO PURCHASE SESSION PRO BETA AND UTILIZE ITS ADDITIONAL FEATURES.
+
+The first release should be delivered soon; we are working on the final details and testing now. The
+second release enabling the users to upgrade to Pro will likely come a few weeks after the first
+release.
+
+HOW WOULD YOU PERSUADE A PERSON TO SWITCH AWAY FROM A MAINSTREAM MESSAGING APP LIKE WHATSAPP?
+
+I wouldn’t try to overtly try to persuade someone to use Session; ultimately, the choice is up to
+the individual. MOST PEOPLE USE MAINSTREAM MESSAGING APPS BECAUSE THAT IS WHERE THEIR FRIENDS,
+FAMILY, AND WORK CONTACTS ARE, and that is completely understandable.
+
+Most of our daily conversations with family and friends are not secret, but they are still personal.
+People share emotions, political views, routines, jokes, voice notes, and photos. That kind of
+communication deserves respect by default.
+
+Using Session is not about hiding, it's about ensuring that you aren’t turning your everyday life
+into data. You shouldn’t be forced to choose between connecting with friends and constantly
+feeding a central platform with data about who you talk to, when, and how often. For a lot of
+people, that idea resonates even more than high-stakes security scenarios.
+
+What I usually say is that it does not have to be an all-or-nothing switch. Session is not about
+replacing every conversation you have. It is about having an option that behaves differently when
+privacy actually matters.
+
+I also think it helps to say that switching does not have to be dramatic. You can start by inviting
+a couple of close people over and see how it feels. Once people experience messaging without phone
+numbers, ads, or algorithmic pressure, it often just feels calmer and more intentional.
+
+WHAT DOES SESSION’S 2026 ROADMAP LOOK LIKE AND ANY PARTICULAR WORRIES?
+
+We have been working on Session Protocol V2, AN UPGRADE THAT WILL RE-IMPLEMENT PERFECT FORWARD
+SECRECY, UTILIZE NEW POST-QUANTUM CRYPTOGRAPHY (PQC), and deliver improved device management
+features to ensure better visibility and authorization of linked devices.
+
+The V2 Session Protocol is still undergoing design, and it will take a significant amount of
+development resources to finalize and integrate into Session but it is something we plan to release
+in 2026.
+
+For the contributors working on Session, it’s exciting that developing this protocol in the open
+allows community members, security researchers, and users to give feedback on the proposal, ensuring
+that the V2 Session Protocol provides maximal security while retaining ease of use. It’s one of
+the wonders of working with open source tech.
+
+Besides the V2 protocol work, we will be releasing the beta of Session Pro, which will be a huge
+step in making the Session ecosystem truly sustainable. And as always the developers working on
+Session are continually squashing bugs and adding new features to Session which improve the Session
+user experience, and this work will continue throughout 2026.
+
+-------------------------
+
+SUGGESTED READ : _Decentralized, Open Source Alternatives to Mainstream Social Media Platforms_
