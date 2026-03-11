@@ -1,0 +1,113 @@
+
+
+====================================================================================================
+
+The World’s Most Hated Ticket Company Is Finally Being Forced to Change
+
+====================================================================================================
+
+_Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+Live Nation and Ticketmaster are not breaking up. On Monday, the Justice Department announced a
+settlement of its antitrust case against the live entertainment juggernaut just a week into the
+trial. Under the terms conditioned for the settlement, Ticketmaster will remain a subsidiary of a
+corporate giant that already owns everything from performance stages to music festivals to event
+promoters—to the chagrin of performing artists and pro-antitrust lawmakers.
+
+The whole outcome is mighty unusual—and unfinished. The judge overseeing the case was not made
+aware of the settlement negotiations, and has yet to sign off. Meanwhile, a majority of the states
+that joined the federal government as plaintiffs have objected to this deal, and the judge has given
+them permission to continue fighting their case next week should they fail to reach their own
+settlements with Live Nation.
+
+So, however disappointing the initial result may be for everyone who desired _some_ accountability
+for Ticketmaster’s myriad sins (crashing during “Eras” tour sales, overcharging venues and
+attendees, teaming up with scalpers), the fight is not over. And the current deal also comes with
+notable concessions that clamp down on some of Live Nation’s most risible business practices. Bit
+by bit, the near-unanimous public antipathy toward Ticketmaster is gradually transforming
+audiences’ ticket-buying experience for the better—in large part by opening up access to
+competitors eager to demonstrate that they’re _not_ the dreaded, hated Ticketmaster.
+
+It’s worth noting that complaints against Live Nation were never solely preoccupied with
+Ticketmaster divestment. When the DOJ first filed suit in 2024, it targeted an array of the
+conglomerate’s monopolistic tactics. The complaint accused the company of forcing venues into
+long-term, exclusive contracts with Ticketmaster, crowding out prominent competitors like StubHub
+and SeatGeek. It also alleged that Live Nation punished venues that _didn’t_ willingly choose
+Ticketmaster by threatening to withdraw business opportunities with Live Nation’s other
+properties, including music festivals and artist promotions. And it claimed the company charged
+American consumers more than foreign customers through excessive transaction fees. (Remember how
+much cheaper those Taylor Swift shows were in England than in the U.S.?) The government had
+receipts: In court last week, a former Barclays Center executive played a threatening voicemail
+he’d received from Live Nation’s CEO in 2021 after choosing SeatGeek as Barclays’ ticket
+vendor, an act that lost the venue over a dozen Live Nation–promoted shows. (The arena has since
+re-partnered with Ticketmaster.)
+
+But Live Nation, which never wanted this thing to go to court, successfully leveraged its power to
+weaken the case as it stood. Over the past year, it hired Trump allies as advisers and deployed them
+to lobby the DOJ for a settlement. Even though it couldn’t halt the case, Live Nation notched some
+significant wins: the ouster of the DOJ’s Ticketmaster-skeptical antitrust chief, and the
+successful dismissal of government charges that the company held monopolies over the concert
+promotion and booking sectors. That alone seemed to make for the most significant victory. “With
+those claims gone, we see no possible basis for breaking up Live Nation and
+Ticketmaster,” executive Dan Wall wrote in a statement.
+
+So it was already unlikely that even an ideal trial would have spurred the trustbusting that
+everyone wants. But the feds had enough to get Live Nation to give in on some important fronts, even
+on matters outside the scope of the trial.
+
+The company, which owns 56 of the United States’ highest-grossing amphitheaters, has to divest 13
+of those stages, release them from their exclusive Ticketmaster contracts, and agree never to
+reacquire them. All other American amphitheaters owned by Live Nation have to be allowed to sell up
+to half of a given event’s tickets through a different provider, if they so wish, without fear of
+retaliation. (Meanwhile, any future venue deals for _exclusive_ Ticketmaster use are now limited to
+a four-year maximum.) Further, Ticketmaster will see some overhauls in basic functionality: All
+service fees will be capped at 15 percent of a given ticket’s price, and the underlying software
+will be opened up for use by rival ticketers whom consumers and amphitheaters may prefer to
+patronize. The platform will also be forbidden from restricting such third-party ticket sales in any
+way, whether by leveling extra fees or by adding any glitches to competitor transactions. A federal
+monitor will be installed to ensure Live Nation abides by these terms over the next eight years.
+
+No one would argue this is enough, and the advocacy groups still pushing for a full-on breakup are
+right to do so; in a statement to Slate, the anti-monopoly Demand Progress Fund called the outcome a
+“slap on the wrist that tinkers around the edges of the real problem: Live Nation’s monopoly.”
+Lauren Spahn, an intellectual property expert with the law firm Buchalter, also claims the service
+cap is less restrictive than it may appear. “Ticketmaster could put in a facility fee or an
+order-processing fee or something that doesn’t fall under a ‘service fee’ but allows them to
+make up for that reduction,” she said.
+
+ALEX KIRSHNER
+
+FANATICS AND TICKETMASTER MAKE THE MOST AMBITIOUS ANTITRUST COLLABORATION OF ALL TIME
+
+Still, there’s remarkable legal acknowledgement here of the very real harms affected by a powerful
+entity like Live Nation, and visible steps to fix a broken process. Provided that these demands are
+diligently enforced, there are tangible benefits for everyone involved. Performing artists, who
+depend more than ever on live shows to make money, should no longer have their stage options limited
+the way Billie Eilish’s reportedly were in 2022, when Live Nation’s feud with the Barclays
+Center prevented her from returning to the Brooklyn arena. Added competition will force even more
+transparency around added fees, which will be reduced thanks to the prohibition on third-party
+service charges.
+
+The impact of that is likely to show up across the ticketing sector, according to entertainment
+finance attorney Corey Martin. “There will likely be downward pressure on ticket prices in the
+long term,” he wrote to me in an email. “The objective of this antitrust action was to ensure
+that, even in the era of dynamic price models, true competition amongst the key players in the
+ticket sales and reseller marketplace would take hold.”
+
+Neither Martin nor Spahn believes that the states’ lawsuit could revive hopes of a Live Nation
+breakup. But if it can wrest more power from Live Nation, that’s a worthy win in the short term.
+Another bonus of this settlement: Major venues—whether or not they’re owned by or contracted
+with Live Nation—will no longer have to direct customers to Ticketmaster’s interface by default,
+to the advantage of upstart ticketing companies like Dice, which is often praised by its partners
+for using extra guardrails to secure against resale price gouging and fraudulent bot-driven
+transactions.
+
+That indicates another key bit of the fallout: further empowerment of the anti-Ticketmaster
+movement. The Federal Trade Commission still has an ongoing suit against Ticketmaster over its
+egregious resale fees, and the momentum has trickled outward. New state and federal laws have
+imposed liabilities for scams like automated mass-ticket purchases, while bills proposing caps on
+resale fees have advanced in California and New York. And industry observers are already directing
+public scrutiny toward competitors like StubHub, also notorious for alleged price gouging. There’s
+a less pricey future out there for concertgoers, and the Live Nation settlement is only a first step
+toward achieving it.
