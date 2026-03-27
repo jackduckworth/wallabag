@@ -1,0 +1,161 @@
+
+
+====================================================================================================
+
+The Opta-stat-packification of football: Why are the game’s milestones getting weirder?
+
+====================================================================================================
+
+Back in October, after a 2-0 home win for Manchester United over Sunderland heralded one of the
+final false micro-dawns of the Ruben Amorim era, a beautifully benign piece of information was
+posted on X, which read:
+
+_Ruben Amorim becomes the first Manchester United manager since Sir Alex Ferguson to win his 50th
+game at the club._
+
+It had all the cadence and vocabulary of a modern-day football stat and, at first glance, looked
+like it could be a reasonable milestone. But no, Ruben Amorim had become the first Manchester United
+manager since Sir Alex Ferguson to win his 50th game at the club. _Specifically the 50th_. What
+conclusion were we supposed to draw from this?
+
+The answer, almost certainly, was nothing: this “stat”, like so many others on a typical
+matchday, was destined to be buried by the news cycle and never cited again.
+
+-------------------------
+
+The marriage of football reporting with surface-level data has, in the most part, been a fruitful
+one. Straightforward metrics can be easily editorialised to capture the fortunes of teams and
+players: the minutes since a goalkeeper’s net was last breached, the hours since a hapless striker
+last scored, the days since an injury-plagued former wonderkid last kicked a ball.
+
+Then again, after Liverpool shared the points with Manchester City in November 2023, Sky Sports
+produced a live TV graphic confirming that man of the match Trent Alexander-Arnold had ranked
+“joint-first for goals scored” in a 1-1 draw.
+
+Alexander-Arnold was joint-top dog away to Manchester City in November 2023 (Shaun Botterill/Getty
+Images)
+
+To paraphrase the anti-VAR mantra, then: data itself isn’t the problem, it’s often the people
+using it. And in the expanding universe of football content, there’s a lot of data and a lot of
+people.
+
+Supplying that data to those people is Opta, the sports analytics company which has a near-monopoly
+on football stats distribution in the UK media. And while advanced metrics (your PPDAs, your field
+tilts, your xGOTs) are slowly taking hold and being used responsibly, the most surface-level data
+sets (goals, ages, minutes) remain the lubricant for much of the output of mainstream football
+outlets.
+
+It isn’t much of a betrayal of industry omerta to reveal that Opta’s stat packs, issued to
+paying media outlets before a Premier League weekend and after each individual game, are the unsung
+heroes of football match reporting. They detail — to varying degrees of tenuousness but with an
+occasional statistical nugget of gold — a series of streaks, firsts and barren runs: a team’s
+best stretch of consecutive away wins since 1977, the first Brazilian in the Premier League to do
+this, the first top-flight side to fail to do that. Win, lose or draw, there will always be
+something in there to prop up the prevailing consensus about how a team are broadly performing.
+
+And, honestly, the labyrinths that can be constructed from this basic information…
+
+What was the icing on the cake here? That it was specifically _two_ seasons in a row, or that two
+other West Ham players had already achieved this never-before-considered feat before Lucas Paqueta
+did? Either way, some dull, statistical water had been turned into briefly diverting wine.
+
+Filling the content void is not the only impulse here, though. Amid the blizzard of
+narrative-adjacent stat curation is a palpable addiction to milestones, thanks in large part to the
+two-decade goalscoring torrents of Cristiano Ronaldo and Lionel Messi. Milestone purists had only
+just come to terms with numbers outside of 50, 100, 250, 500 and 1,000 being given dubious gravitas,
+when the whole thing was blown apart even further by transfer reporter Fabrizio Romano.
+
+Ronaldo and Messi’s shattering of various goalscoring barriers in the latter part of their careers
+has intensified as a result of some selective convenience, in the hope of unearthing yet another
+landmark figure: league goals only, continental competitions only, internationals, open-play goals,
+goals scored after turning 30… there’s always a round number on the way somehow. Indeed, Messi
+recently reached the quasi-milestone of 900 goals. An astounding total, let’s face it — so why
+wait for the thousandth?
+
+-------------------------
+
+Opta’s ability to consult simultaneous variables and conjure up a real-time, mid-game stat —
+before disseminating it to media outlets for them to relay to their audiences — has led to some
+frankly exceptional logical gymnastics. The more layers you see in a stat, the more unsure you are
+how impressed you’re supposed to be.
+
+Against FC Copenhagen in January, Barcelona’s Marcus Rashford finally achieved what his critics
+said he never would, and “became the second Englishman to score direct free kicks for two
+different Champions League teams after David Beckham”.
+
+A few weeks later, Juventus defender Lloyd Kelly suffered the ignominy of being “the second
+Englishman to receive a red card in a UEFA Champions League knockout stage match for a non-English
+team, after Matt Derbyshire for Olympiacos versus Bordeaux in the 2009-10 round of 16”. And
+despite nobody ever, _ever_ considering those elements together before in the history of football, I
+felt immediately compelled to defend this stat’s right to exist.
+
+That news came as the nation was still reeling from Arsenal’s Eberechi Eze becoming “the first
+player in 10 years to assist two goals in an FA Cup game at the Emirates” against Wigan Athletic
+(please note that this just happened to occur against Wigan, they weren’t part of the stat,
+mercifully). And just days ago, Sky Sports confirmed that we were all lucky enough to be alive to
+witness “the first goalless draw between Nottingham Forest and Fulham this century [surprised face
+emoji].”
+
+My concept of a landmark had long become blurred beyond recognition, each stat containing just the
+right number of caveats to render them almost meaningless, yet somehow drawing me in.
+
+A year ago, tweeted Squawka, Chemsdine Talbi (19 years and, crucially, 285 days old) became the
+youngest (right, OK, I’m listening) Belgian player (hmm, OK) in Champions League history (ooh,
+that’s big) to score a brace (a brace!).
+
+(Talbi has since declared his international allegiance to Morocco, presumably at the cost of his
+baby-faced Belgian brace-bagger title reverting to… whoever held it previously.)
+
+Chemsdine Talbi fresh from making Champions League history last season… (Isabella Bonotto/Getty
+Images)
+
+Occasionally, though, this juggling of innocuous variables can — seemingly accidentally — result
+in something quite impressive-sounding.
+
+After last summer’s Club World Cup final, it emerged from Opta’s algorithm that Cole Palmer was
+only (only? Did this qualify for an “only?”) the third player to score multiple goals in a final
+against Paris Saint-Germain, joining Michel Platini for Saint-Etienne in the 1982 Coupe de France
+and Alessandro Del Piero for Juventus in the second leg of the UEFA Super Cup in February 1997.
+
+This stat had poise. An exclusive club had been suddenly formed. One that wouldn’t quite have the
+same lustre if it had included, say, Christian Stumpf for Rapid Vienna in the 1996 Cup Winners’
+Cup final.
+
+-------------------------
+
+But there are some who happily exist in the cosy, knowingly niche corners of football data.
+
+The X account of El Data Tricolor, which dedicates itself to Colombian football, noted in October
+that Luis Suarez’s penalty for Sporting CP against Napoli in the Champions League meant he now
+occupied top spot in the prestigious ranking of… Colombian players who have scored past the
+tallest goalkeepers in the Champions League (Napoli’s Vanja Milinkovic-Savic just edging out
+Fraser Forster and Thibaut Courtois by one and two centimetres respectively.) Now, we could pause to
+ponder how and why those data sets collided in the first place, let alone how it became an ongoing
+concern, but you can’t help but admire such acts of statistical spelunking.
+
+And if you’re struggling to place a football stat in the appropriate, helpful context, there’s
+fun to be had in going rogue.
+
+“You could fill every upstairs seat of a London double-decker bus (a Routemaster) with permanent
+managers of Nottingham Forest or Watford since 2011,” confirmed The Times’ stats man Bill Edgar,
+the bracketed clarification perhaps the crowning glory. Edgar thrives in a conscious niche, one
+which enjoys a freedom granted by the fact that a football stat doesn’t necessarily need to
+underline an achievement or a failure, it can just be the aligning of some happily unnecessary
+planets:
+
+Edgar’s main rival for single-eyebrow-raising stat hits is _The Athletic’s_ very own Duncan
+Alexander, who — when not calculating that James Milner has played in 1.3 per cent of English
+top-flight games since September 1888 — has capitalised on 1) unfettered access to the Opta
+database and 2) an unnatural fixation with pop-culture chronology:
+
+-------------------------
+
+Ronaldo and Messi continue to edge themselves closer to a genuine landmark, perhaps football’s
+ultimate for an individual player.
+
+Before then, we may at least be able to satisfy our single-serving stats hunger around the middle of
+January 2027, by which point Michael Carrick could become only the second Manchester United manager
+since Peter Mutharika was elected for a second term as president of Malawi to win their 50th game in
+charge.
+
+Remember where you were.
