@@ -1,0 +1,152 @@
+
+
+====================================================================================================
+
+Economist Paul Krugman Has a Dark Theory About the Iran War
+
+====================================================================================================
+
+Listen to What Next:
+
+	* [image] Apple Podcasts
+ 	* Spotify
+
+Last week, President Donald Trump did a funny two-step on Iran. He began by threatening to
+“obliterate” Iranian power plants unless the Strait of Hormuz was safely opened back up. He gave
+a 48-hour deadline. Then, right before that deadline hit, Trump pulled back on his ultimatum. But a
+few minutes before he did that, the oil markets saw a massive spike in activity—a spike so huge
+that it seems clear that somebody knew something.
+
+It sure looked as if closely guarded national security information was being used to make a quick
+buck. As Nobel Prize–winning economist Paul Krugman reasons, if a spy were giving our adversaries
+this kind of info, we’d certainly call it treason. So why not use the same language now?
+
+This is also not the first time White House moves have been tied to suspicious trading patterns.
+When the president rolled out and then clawed back “Liberation Day” tariffs a year ago, some
+wondered whether Trump was putting the country on a financial roller coaster so that his pals could
+buy the dips. In other words, everything here is happening out in the open.
+
+On a recent episode of What Next, host Mary Harris spoke to Krugman about how people are making a
+killing off the war in Iran. This transcript has been edited and condensed for clarity.
+
+MARY HARRIS: I WANT TO FOCUS ON WHAT HAPPENED WITH THE IRAN SITUATION AND THE OIL FUTURES. HOW DOES
+SOMEONE MAKE MONEY ON A TRADE LIKE THIS? WE SEE A LOT OF ACTIVITY RIGHT BEFORE AN ANNOUNCEMENT IS
+MADE. WHAT HAPPENS THEN THAT RESULTS IN ME GETTING A BUNCH OF CASH, THEORETICALLY? 
+
+PAUL KRUGMAN: You could sell a bunch of oil futures at 6:30 in the morning at, let’s say, $98 a
+barrel, and, actually, you could even sell oil futures you don’t have. You could basically just
+borrow them and then buy them back at 7:07, after Trump has made his announcement, for $90 a barrel.
+So you’re ahead. You’ve sold stuff at $98 and you bought it back at $90. The actual amount of
+money you make is not the entire volume of the trade. But it’s a lot of money. You’re basically
+arbitraging between the price just before and the price just after.
+
+DO WE HAVE A SENSE OF HOW MUCH MONEY SOME PERSON OR PERSONS MADE HERE? 
+
+I have not actually run the numbers, but if we say there was something like a 10 percent movement in
+oil prices, and there was $580 million of transaction volume, then somebody collected 10 percent of
+that.So let’s say it was $58 million.
+
+HOW WOULD WE KNOW THE IDENTITIES OF THESE TRADERS? IT SEEMS LIKE THAT IS SOMETHING THAT IS KNOWABLE.
+DOES THAT JUST RELY ON A COMPLETELY DIFFERENT ADMINISTRATION, A COMPLETELY DIFFERENT SECURITIES AND
+EXCHANGE COMMISSION? WHAT WOULD BE THE TYPICAL PLAY HERE IF WE WERE IN A NORMAL WORLD?
+
+I don’t do financial investigations, but I’m pretty sure that at some level, these orders have
+to have been placed with somebody. They might have been anonymized, but I’m pretty sure that if
+you did an investigation with subpoena power to require the financial institutions that have to act
+as brokers to reveal information, there would be a pretty clear trail pointing to it. But of course,
+we don’t know that. Ordinarily, these things are not public knowledge. That’s how financial
+markets work in many cases.
+
+COULD THE TRAIL DRY UP? I UNDERSTAND THAT MAYBE SOMETHING WON’T BE INVESTIGATED NOW, BUT I JUST
+WONDER IF TIME MEANS THAT THE INVESTIGATION BECOMES LESS POSSIBLE?
+
+It’s possible. The people who placed these trades almost certainly have to reckon with the
+possibility that they could be tracked, that eventually they would be found out, and they’re just
+operating on the presumption that they will never be held accountable. Maybe they think that we are
+effectively a one-party nation now, or they just think by the time it has passed there will be
+enough people to protect them, but it’s pretty amazing. If somebody suggested to me, “Look here,
+you can make a million dollars by using this deeply classified national security information, and,
+trust us, you’ll never be found out,” I would not do it. Leaving patriotism and morality aside,
+I would say, “Gee, I don’t trust that.” But somebody obviously did.
+
+RELATED FROM SLATE
+
+IAN PRASAD PHILBRICK
+
+IRAN IS RELENTLESSLY TROLLING TRUMP. IT APPEARS TO BE WORKING.
+
+ READ MORE 
+CAN YOU LAY OUT YOUR CASE FOR THIS BEING MORE THAN INSIDER TRADING? YOU DID IT REALLY WELL IN YOUR
+SUBSTACK. 
+
+Insider trading of this kind would be illegal. If you were a corporate insider who knew stuff about
+XYZ corporation’s finances and traded on that basis, that would be illegal too. But in this case,
+there are three things. First, the nature of the information. There is hardly anything that is more
+sensitive and protected. That’s more than knowing that there’s some unrealized losses on a
+corporate balance sheet.
+
+DO YOU REALLY THINK THAT FOREIGN GOVERNMENTS ARE, AT THIS POINT, WITH A MAGNIFYING GLASS, LOOKING AT
+OUR MARKETS AND THINKING THAT SOMETHING MIGHT BE ABOUT TO HAPPEN?
+
+Of course they are! That’s the easiest thing. It doesn’t require any deep undercover operations.
+Put it this way: The fact that financial media was on this almost immediately—if CNBC and the
+Financial Times are watching these things, how can you imagine that the Russians and the Saudis and
+the Chinese aren’t watching it? The second thing is that this does reveal information.
+
+BUT IT’S NOT SPECIFIC, RIGHT? IT’S NOT SPECIFIC. IT’S INOPERATIONAL INFORMATION, RIGHT? 
+
+It’s pretty close to! If there’s suddenly a large transaction and we’re in the middle of a war
+with Iran and the transaction is somebody betting that things will look less dire, then this is
+clearly signaling that Trump is going to de-escalate in a few minutes, right? And specifically that
+he was going to offer a four-day window, or something about nonbombing.
+
+YOU’RE REALLY MAKING THE CASE THERE THAT THIS ACTUALLY IS MAYBE THE MOST RELIABLE SIGNAL YOU WOULD
+GET?
+
+Yeah. Trump having announced that he’s engaged in productive negotiations with the Iranian
+government, there’s no reliability about his pronouncements about what’s happening. But if you
+see what looks like an insider making a large financial transaction, that carries much more weight
+than a simple statement.
+
+BECAUSE YOU’RE PUTTING YOUR MONEY ON THE LINE. 
+
+The third was a little bit less conclusive, but as I see it, the morality, the general nature of
+essentially trading on or selling national secrets through financial transactions is not really
+different from just plain selling the national secrets. Somebody is willing to place a $500 million
+bet in the futures market on the basis of national security. How different is that from just plain
+selling that information to a foreign power? Or a domestic power!
+
+IT SHOWS WHAT YOU VALUE. YOU VALUE MAKING MONEY OFF IT. 
+
+Yeah, and for what it’s worth, this is pure speculation, but my guess is this was not actually
+somebody close to the White House directly making the trade. This was somebody close to the White
+House selling the information to some large financial operator to make the trade.
+
+PROPUBLICA DID A BIT OF AN INVESTIGATION INTO GOVERNMENT STAFFERS WHO SEEM TO HAVE BEEN MAKING
+SUSPICIOUS STOCK TRADES IN THIS SECOND TRUMP ADMINISTRATION. BASICALLY, THEY LOOKED AT, LIKE, _THIS
+HAPPENED ON LIBERATION DAY, YOU SEEM TO HAVE TRADED $20,000 OR $50,000 WORTH OF STOCKS. WHAT
+HAPPENED?_ IT WAS INTERESTING BECAUSE PART OF WHAT STOOD OUT TO ME WAS HOW HARD IT WAS TO PROVE THAT
+THESE TRADES WERE MADE WITH INSIDER INFORMATION. THEY HAD TO HAVE A LINE IN THERE. IT WAS BASICALLY
+LIKE, “WE DON’T KNOW THAT THIS IS PROOF—WE JUST KNOW THE TIMING LOOKS SUSPECT.” IS IT
+POSSIBLE THAT WHAT LOOKS VERY SUSPICIOUS TO YOU AND ME IS SLOPPINESS SOMEHOW? 
+
+Ordinarily, I would have said, “Well, this is really hard to prove, and putting the finger on any
+individual is going to be very difficult.” But the fact is that this is not a number of
+transactions made within a day or so, but actually a large slug of money, basically all at once,
+just 15 minutes before the big announcement. That could be a coincidence, but it’s also possible
+that a meteor will come crashing through my window and hit me right now. It’s not very likely. And
+so the circumstantial evidence for some kind of wrongdoing is really strong here.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
