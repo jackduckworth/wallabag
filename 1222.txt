@@ -1,0 +1,129 @@
+
+
+====================================================================================================
+
+The Most Profitable Trend in Podcasting Is a Big Ugly Problem for the Rest of Us
+
+====================================================================================================
+
+_Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+Podcasting can be a great business if you’re good at it, but I’m not sure anyone has ever been
+_this_ adept at milking shareholder value out of a pair of mics. _TBPN_ (it stands for Technology
+Business Programming Network) is a two-man video talk show that only launched in 2024. The show is
+punchy but generally upbeat about technology and the people who make it. Last week, the two guys who
+host it, John Coogan and Jordi Hays, sold it to OpenAI for a sum that the Financial Times reported
+was in the “low hundreds of millions.” The podcasters announced that they had won a
+“commitment to editorial independence,” lest anyone think OpenAI CEO Sam Altman might be angling
+to turn their show into propaganda. _TBPN_ says it “retains full editorial control” over its
+programming and guest lineup. The hosts get generational wealth and perhaps retain enough editorial
+freedom to look in the mirror and tell themselves they aren’t sellouts.
+
+OpenAI gets a podcast whose hosts have a good understanding of the tech media landscape. The company
+may also be getting loyal mouthpieces. The show’s editorial protections could prove to be hollow,
+and OpenAI could take a show that is popular with the Silicon Valley elite and make it into Pravda
+for tech. (In the highly likely event that the two podcasters are now OpenAI shareholders, they’ll
+have incentive to boost their new company.) _TBPN_ will report to OpenAI’s top political
+operative, Chris Lehane, who recently worked for crypto interests after a long career in Democratic
+politics. We must all judge for ourselves whether OpenAI really just wants to “accelerate the
+global conversation” about A.I as they claimed in a post announcing the acquisition.
+
+We can judge one thing now, though. OpenAI’s acquisition of _TBPN_ is just the biggest punctuation
+of a sad trend in tech media, where sycophancy and cozy relationships with the industry offer the
+best path to stardom and riches. Many of Silicon Valley’s most powerful people have whined a lot
+in recent years about traditional media not being properly understanding of their companies’
+brilliance and benevolence. Maybe it is natural, then, that a big swath of the most influential
+podcasters have come forward to offer a solution to those executives’ problems. This upper rung of
+tech media is moving toward flattering, access-driven coverage, where the powerful reward
+friendliness more than broader audiences reward independence. The _TBPN_ acquisition is just a
+logical endpoint. Or maybe, more concerningly, it’s not even the end. It’s not like other big
+tech operations won’t be watching to see how this goes for OpenAI.
+
+The mantra “if it bleeds, it leads” has been, at best, a mixed bag for media over many decades.
+What’s happened in tech media the past few years has been an inversion of that old principle often
+attributed to William Randolph Hearst. Famous executives, mad about not getting a perceived fair
+shake in the conventional press, have gravitated toward shows that will happily make them feel like
+important men of history who are setting out to build great things for society’s benefit. This
+often results in entertaining, informative work: _Acquired_, a deeply researched show by two
+starry-eyed tech investors, regularly tops podcast charts with dives into famous companies. (The
+show’s hosts do not pretend to be journalists and disclose that they might invest in the companies
+they talk about.) Their friendly approach has yielded cameos from Mark Zuckerberg and Jamie Dimon,
+among others. YouTuber Cleo Abram has nearly 8 million subscribers, billing herself as “a video
+journalist making optimistic tech explainers.” How optimistic? Enough that Jensen Huang, the CEO
+of Nvidia, is willing to sit down with her for an hourlong podcast. _All-In_, hosted by a bunch of
+Elon Musk–adjacent venture capitalists, has generated an enormous following for the same reasons.
+
+_TBPN_ comes from this vintage, talking in not-uncritical but typically kind terms about the tech
+world’s biggest players and getting lots of them to join them on their show. The hosts have both
+founded other companies and do not try to hide that they’re good buddies with lots of important
+Silicon Valley people. The hosts are not bashful about having conflicts of interest. They are famous
+for zealously shilling for their ad partners in an over-the-top way that borders on becoming a
+bit—although they have ceased to have advertisers now that they’re under the OpenAI umbrella.
+It’s amusing that Altman would say of his new hires, “I don’t expect them to go any easier on
+us.” Thank goodness that these tech-founder podcasters who are now in Altman’s employ will still
+be fair when talking about OpenAI.
+
+The sleazy thing here, then, isn’t that _TBPN_ was doing shoeleather journalism and may now find
+itself brought to heel by powerful A.I. interests. It is that this specific brand of tech
+journalism, if we might call it that, has gained so much purchase that OpenAI would be willing to
+spend nine figures on this show in the first place. Whether because audiences simply enjoy
+techno-optimism or because a friendly position helps with guest booking, it _does_ seem like
+non-adversarial tech coverage is a rocket ship right now. _TBPN_ isn’t even that big of a show,
+with more like tens of thousands of audience members than hundreds of thousands or millions. But
+that audience includes the right people, including Altman.
+
+RELATED FROM SLATE
+
+ALEX KIRSHNER
+
+JEFF BEZOS KILLED THE WASHINGTON POST
+
+ READ MORE 
+If you wish to see a public that is more informed about A.I.’s upsides _and_ downsides, the
+downstream effects of these incentives are worrisome. I care less that OpenAI bought up a chummy
+podcast than about the validating effect of that podcast’s success on other aspirants in tech
+media. If the best way to hit it big is to make a podcast that someone like Altman adores, then the
+rest of us are probably in trouble.
+
+Katherine Boyle, a venture capitalist at the powerful firm Andreessen Horowitz, wrote after the
+_TBPN_ deal: “It’s incredible to me, six years post-Covid when institutional trust fell off a
+cliff for good, that people still think audiences care about editorial independence. Point of view,
+charisma, good humor, entertainment, preparation and most importantly, showing up and being normal
+matters.” As someone who’s made a bit of money in podcasting (though more like “a living”
+than “a hundred million dollars” and in sports rather than tech), I think that’s half right.
+Charisma and prep matter a ton, but I don’t think such explicit ass-kissing as part of an
+editorial posture would work this well in any other field, nor would audiences so easily accept an
+acquisition like this one. For example, _Pod Save America_ is friendly to the Democratic
+establishment but absolutely needs to keep some distance from it for the sake of being interesting.
+If I announced that Ohio State had bought my college football show, I’d expect to stop being taken
+seriously when talking about the playoff race. In a case like _TBPN_’s, this calculus does not
+appear to carry.
+
+There’s a particular grimness to this deal happening at this moment, and with this A.I. giant.
+OpenAI isn’t the first big nonmedia company to buy into a media product. Altman isn’t the first
+billionaire who might do a big media deal for reasons other than sincere interest in media. But
+OpenAI already stands accused of suppressing inconvenient internal research about the impact of its
+products. As we speak, Altman is asking for cooperation from both governments and (soon)
+public-market investors as he tries to secure the strongest possible future for his company. The New
+Yorker just unveiled years’ worth of reporting on Altman that strongly suggests none of us should
+trust him.
+
+Whether you are an A.I. optimist or pessimist, you’d ideally agree that few industries have ever
+screamed out more for intense scrutiny at a particular moment than generative A.I. does right now.
+Marketing expenses like this one push the media ecosystem in a different direction. “If it bleeds,
+it leads” is no more, replaced by something that stinks in its own way. If it glazes, it amazes?
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
