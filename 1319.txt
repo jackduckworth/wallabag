@@ -1,0 +1,132 @@
+
+
+====================================================================================================
+
+Elon Musk Says He’s Suing OpenAI Because They Abandoned Their Mission. I Think His Real Reason Is Much More Embarrassing.
+
+====================================================================================================
+
+_Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+A new scale of humiliation ritual kicked off this week as Elon Musk’s lawsuit against OpenAI went
+to trial in Silicon Valley. The Tesla CEO, who co-founded OpenAI, is suing the artificial
+intelligence firm and two of its other co-founders, Sam Altman and Greg Brockman, for diverting from
+its original nonprofit goal of developing A.I. for the public good in favor of for-profit motives.
+
+“This lawsuit is very simple: It is not OK to steal a charity,” Musk said on the witness stand
+on Tuesday.
+
+The trial is big by every conceivable measure. Both Musk and OpenAI have mustered high-dollar legal
+armies who are prepared to wage potentially years of litigation, including this federal trial.
+Millions of dollars are being lit on fire each week it unfolds, and the fight is over sums that are
+similarly astronomical: Musk is seeking more than $130 billion in damages, as well as the removal of
+Altman and Brockman from the company, and a return of OpenAI to a pure nonprofit position. The
+jury’s decision could change the very future of Silicon Valley and the future of tech throughout
+the world forever.
+
+But it probably won’t. Winning, at least in the legal sense, doesn’t appear to be Musk’s main
+goal. What the trial offers him is an opportunity: a very public forum in which to challenge
+OpenAI’s story, drag its leadership through potentially embarrassing discovery and testimony, and
+inflict as much pain as possible on his rivals.
+
+In Musk’s telling, it went like this: He helped launch OpenAI as a nonprofit in 2015 because he
+was so afraid of the implications of artificial general intelligence that he wanted to make sure
+there was a firm out there ensuring that it benefits “all of humanity.” Keeping OpenAI as a
+nonprofit, and _not_ driven by shareholder interests, was meant to ensure that it acted as a
+transparent and safety-oriented counterweight to companies like Google’s DeepMind that were
+developing A.I. in a closed, profit-driven way.
+
+This is where it starts to get muddied. As it turned out, training bleeding-edge, frontier A.I.
+models was very expensive. As costs rose, the nonprofit idea started to look more and more like a
+barrier to helping the company achieve its goals, since it limited its ability to raise money.
+Meanwhile, according to OpenAI, Musk wanted more control of the firm and proposed folding it into
+Tesla. Tensions rose and Musk eventually left OpenAI’s board in 2018.
+
+Things were quiet for a while. OpenAI began steadily drifting from its nonprofit mission by allowing
+outside investment, including a partnership with Microsoft in 2019. Musk went off to focus solely on
+making humans a multiplanetary species (just kidding: he became a right-wing troll during the
+pandemic and bought Twitter instead). Then OpenAI launched ChatGPT in 2022, transforming the A.I.
+firm into a household name overnight. Musk launched his own xAI the following year, and positioned
+himself as an outright rival to his old nonprofit.
+
+By 2023, the fractures between Musk and OpenAI were much more apparent. He criticized it for being a
+“closed source” for-profit company. Of course, he also blasted it for being too “politically
+correct” and “woke.” The situation came to a critical mass in 2024 when Musk sued OpenAI for
+diverging from its nonprofit mission. Following this, on X, he regularly excoriated Altman for
+“stealing a charity” and dubbed him “Scam Altman.”
+
+That brings us to the present day, where Musk’s lawsuit has made its way into an Oakland courtroom
+where he’s unlikely to win. Legal experts largely agree that Musk’s case doesn’t have a
+snowball’s chance in a data center of winning.
+
+For one, the billionaire has limited leverage here. His money can only get him so far—he’s not a
+regulator or the California attorney general, officials typically responsible for enforcing
+nonprofits’ obligations. The judge allowed the case to go to trial based on a narrow exception,
+rooted in a 1964 precedent, that allows a donor with “special interest” to sue a nonprofit to
+make sure donated money is used for its intended purpose, if the AG was too busy to step in.
+
+Even then, Musk’s core argument that OpenAI “betrayed the mission” is legally shaky. There’s
+no contract that said OpenAI had to remain a nonprofit forever. There’s also documentation that
+shows Musk himself, at various points, entertained for-profit structures. As he has a habit of
+doing, he’s making a massive financial decision mostly based on vibes.
+
+So why is he doing this? We know that Musk can be vain and vindictive. He has a long history of
+turning personal grievances into public spectacles. He paid a premium for a social media platform
+and remade it in his own image. He’s used that same platform to lob explosive accusations at
+critics and allies alike, blowing up a professional and personal relationship with President Donald
+Trump by tying him to the Epstein files. It’s also why he baselessly accused a British diver of
+being a pedophile after he criticized his misguided effort to help a group of Thai children stuck in
+a flooded cave (yes, remember that?).
+
+His case against OpenAI follows this pattern: a messy, high-stakes conflict waged more in the court
+of public opinion than the actual courtroom. That’s the point of all this. It’s not the money or
+the nonprofit status. It’s to drag OpenAI and its other founders through the mud until they come
+out the other side as dirty as he is.
+
+RELATED FROM SLATE
+
+ALEX KIRSHNER
+
+WHY OPENAI’S PURCHASE OF A BIG TECH PODCAST IS SO SLEAZY
+
+ READ MORE 
+After all, dirt is sure to emerge. As the case proceeds, internal communications—emails, text
+messages, DMs—are going to surface that won’t make anybody look good, least of all Musk.
+Already, the case is a less-than-flattering look at the Tesla CEO, with jury selection complicated
+by the fact that “people don’t like him.” During his testimony and cross-examination on
+Tuesday and Wednesday, he looked petty and pugilistic, offering answers inconsistent with his
+deposition and quibbling with defense attorney William Savitt over yes-or-no questions for hours.
+
+“I have never been more sympathetic to Sam Altman in my life,” Elizabeth Lopatto, senior writer
+for the Verge, wrote after sitting through five hours of testimony from Musk.
+
+What is unfolding in the Oakland courtroom is less a trial about a nonprofit’s mission and more an
+attempt at humiliation underwritten by the wealthiest man in the world, who is more chips than
+shoulder. He’s somebody who knows the power of public perception. He’s a lot like his old boss
+in the White House in that regard. Both men are keenly attuned to (and wield immense power over)
+digital and public media. Musk is one of the few people wealthy enough to casually throw this kind
+of money after a grievance.
+
+Plus, there’s a reason he’s focusing his ire on Altman. OpenAI represents something that Musk
+has rarely had to contend with: a success story that outgrew him. Not only did the company continue
+after he left, but it flourished. Its flagship product, ChatGPT, has become shorthand for A.I.
+itself. It’s the kind of cultural and commercial breakthrough that we haven’t seen since the
+iPhone—and it happened largely without him. For a figure who is synonymous with the industries he
+touches—spaceflight, electric cars, social media—OpenAI’s rise and dominance carry an
+uncomfortable implication: One of the most consequential technological shifts of our time can happen
+beyond his reach—and without his name and face attached to it. No wonder he’s trying to hang on.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
