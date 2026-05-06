@@ -1,0 +1,139 @@
+
+
+====================================================================================================
+
+I changed these 3 Pixel camera settings and finally got the shots I wanted
+
+====================================================================================================
+
+Your Pixel camera is a powerful tool (that is leveraged fully by Google Photos) that has a double
+life: it can both offer nearly pro-level control over your photography, but can also utilize its
+impressive stack of computational capabilities to dynamically adjust settings both before you take
+the shot, and use AI algorithms after you take the shot (in the case of Pro Res Zoom, Night Sight,
+etc.) to provide the best image possible (and Pixel's Camera Coach can help even more).
+
+The problem is that sometimes a Pixel acts too much like a computer and not enough like a camera by
+making photography decisions that are sometimes not right. But there are several things you can do
+to make your Pixel act more like a real camera and less like a computer in cases where you're trying
+to take a particular shot, and the Pixel is frustratingly not behaving as you want. Here are three
+such tweaks.
+
+[Using the camera on the Galaxy S26 Ultra.]Related
+
+I FINALLY LEARNED WHY A 12MP PHOTO FROM MY PHONE BEATS A 50MP ONE
+
+Your phone probably has a high-megapixel sensor but only takes 12MP photos anyway — this is the
+reason why that's a good thing.
+
+TURN ON FOCUS PEEKING
+
+ALSO, DISABLE AUTO MACRO FOCUS
+
+[focus peeking on pixel]Credit: Brandon Miniman / MakeUseOf
+Sometimes it's difficult to know what your Pixel "thinks" you want to focus on. The problem is that
+you could take a photo, compose it perfectly, only to find later that your camera thought you wanted
+something in the background to be in focus, when you wanted something in the foreground to be in
+focus.
+
+There's a simple solution to this, something that pro photographers often use, and it's called Focus
+Peeking. Focus Peeking uses purple lines to show you where the camera thinks you want to focus. It's
+still autofocus, but it gives you clarity into what exactly the phone is focusing on so you can
+adjust your stance, or use tap-to-focus, to get the camera to focus on the right thing. To turn on
+Focus Peeking, just GO TO MANUAL MODE (the three lines in the bottom right corner) -> TAP FOCUS ->
+you're in manual focus mode with PEEKING TURNED ON. Then purple lines will appear in your camera
+window that show you exactly what the camera is trying to focus on.
+
+In addition, your Pixel has an auto-macro mode turned on by default. What this does is automatically
+switch to your ultrawide camera which has a shorter minimum focus distance than the other lenses.
+
+The problem with auto-macro mode is that the Pixel is making decisions based on what it thinks your
+intentions are. You'll find that when trying to take macro shots that the camera might go in and out
+of macro mode, which makes it very difficult to get the right shot.
+
+Instead, turn off automatic macro mode (CAMERA -> SETTINGS -> MACRO FOCUS -> OFF) and adjust focus
+manually in Pro mode to dial in precisely the right focus distance when you need it (to do that,
+just enter manual mode with the three lines in the bottom right corner, go to Focus, and adjust the
+slider as needed). No more having your Pixel go in and out of macro mode and not properly locking
+onto a focal point, which can be annoying and sometimes prevents you from taking the best shot.
+
+USE PRO CONTROLS
+
+GET FINE-TUNED CONTROL
+
+[pixel manual controls]Credit: Brandon Miniman / MakeUseOf
+Since Pixel 8, Google has added a lot of manual controls to the Pixel for those that want to dial in
+and specify things like ISO (which changes the camera's sensitivity to light), adjust focus manually
+(again, focus peeking helps so much for you to precisely pick what the camera is focusing on), as
+well as adjust shutter speed (important for high-motion or slow-moving shots), tweak white balance,
+and more.
+
+While the Pixel generally has some of the strongest and best computational photography algorithms to
+make these decisions for you, sometimes the camera gets it wrong — it makes a scene too dark, it
+gets the focal point wrong, or it doesn't understand your intention to snap a picture of a
+fast-moving car where the shutter speed must be very fast. To enter Pro mode, just tap the three
+lines in the bottom right of the camera app, then you'll see the seven icons appear along the bottom
+to let you pick which pro control you want to tune.
+
+SHOOT IN RAW
+
+LIKE THE PROS
+
+[raw mode on pixel 10 pro]Credit: Brandon Miniman / MakeUseOf
+If you plan to edit your photos, avoid editing the JPEGs produced by your camera. A much better
+option is to shoot in RAW. While RAW files are significantly larger, they contain the uncompressed
+data directly from the camera sensor rather than a processed image.
+
+Editing RAW is non-destructive because the software doesn't alter the original file; instead, it
+saves your adjustments as a set of instructions (often in a "sidecar" file or a database). This
+allows for a seamless workflow — starting an edit in Lightroom on your tablet and finishing on
+your PC — without ever degrading the quality of the original pixels.
+
+To capture in RAW while in Pro Mode, just go to the camera SETTINGS COG IN THE BOTTOM LEFT CORNER,
+tap PRO, then TURN ON RAW.
+
+USE NATURAL FOCAL LENGTHS
+
+STOP RELYING ON COMPUTATIONAL PHOTOGRAPHY
+
+[lens choice on pixel 10 pro]Credit: Brandon Miniman / MakeUseOf
+This one might be a bit controversial.
+
+When you tap 0.5x, 1x or 5x on a Pixel 10 Pro, you're using a physical lens at its native focal
+length — the image is as sharp as the hardware can deliver with respect to the physics of those
+lenses.
+
+When you drag the slider to anything else, like 1.4x or 4.2x, the Pixel either digitally crops the
+nearest native length, or it uses computational photography to fake pixel data it doesn't have. By
+the way, the other focal lengths like 2x and 10x that you see are suggestions. The 2x is a digital
+crop that basically zooms in on the 1x, and the 10x is doing the same thing by zooming in on the 5x
+shot, but then applying AI via Pro Res zoom to add image data. Both are fine, but they are reducing
+image quality by using digital zoom, more or less.
+
+Translation: using in-between focal lengths adds an element of artificiality that might look okay on
+Instagram, but you're not capturing the true scene. For the most true image data, stick to the
+native focal distances afforded by the lenses your Pixel actually has, which on the Pixel 10 Pro are
+0.5x, 1x, and 5x.
+
+TAP THE FULL POTENTIAL OF THE PIXEL CAMERA
+
+IT'S MORE THAN JUST A POINT AND SHOOT CAMERA
+
+[pro settings on pixel 10]Credit: Brandon Miniman / MakeUseOf
+Most of the time, I leave most things in auto, but sometimes using a Pixel can be frustrating when
+it tries to make decisions for you that aren't right, like when it thinks you're trying to take a
+close up shot, and it changes to the ultrawide lens without you asking it to do so.
+
+As mentioned, the Pixel can both be a dream point-and-shoot camera that makes all the decisions for
+you (and it's great at that in most cases), or you can treat it like a real camera and use the pro
+tools to dial in the correct values that let you capture the photo you envision.
+
+[Rear view of Google Pixel 10 Pro and Pixel 10 Pro XL side by side]
+
+GOOGLE PIXEL 10 PRO
+
+$985 $999 Save $14
+
+	* BRAND Google
+
+The Pixel 10 Pro is Google's highest-end flagship smartphone. It features an improved rear camera
+system, the Tensor G5 chip, seven years of software updates, and a 6.3" Super Actua display.
