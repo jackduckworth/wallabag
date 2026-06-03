@@ -1,0 +1,164 @@
+
+
+====================================================================================================
+
+Clarence Thomas Just Issued One of His Strangest Opinions Ever
+
+====================================================================================================
+
+_This is part of_ _Opinionpalooza__, Slate’s coverage of the major decisions from the Supreme
+Court. The best way to support our work—and unlock exclusive legal analysis—is by joining_
+_Slate Plus__. (If you are already a member, consider a_ _donation_ _or_ _merch__!)_
+
+On Monday, the Supreme Court issued an unsigned opinion about a criminal defendant’s right to a
+fair trial and an honest prosecution. The case concerned an appellate court decision that had
+determined a man’s guilt based on new facts that had never gone before the jury; the Supreme Court
+reversed this holding, ruling that the defendant’s rights were violated. Justice Clarence Thomas,
+joined by Justice Samuel Alito, would have allowed the man, Gary Whitton, to be found guilty and be
+subject to execution, despite the procedural error in the court below. And although the start of
+their dissenting opinion is fairly consistent with Thomas’ and Alito’s harsh jurisprudence on
+criminal matters, the justices then do something strange. In this criminal-law case, they dig into a
+pile of past civil cases concerning completely unrelated legal issues for which the court has
+recently denied certiorari, then try to argue that SCOTUS goes out of its way to protect murderers
+while allowing rights to be taken from “law-abiding citizens.” As this term has shown, what we
+actually have is a court that frequently lets lawlessness reign when the government does something
+wrong but fights tooth and nail to deny fair process for the people it views as criminals.
+
+Gary Richard Whitton was accused of committing a 1990 murder in Florida. A Florida jury later found
+him guilty and sentenced him to death. But two issues emerged as the case proceeded. The first was
+that a key witness, one who claimed he had heard Whitton confess to the crime while in prison, had
+lied to the court about having a criminal record. State prosecutors were aware of this lie but
+failed to disclose it, denying Whitton of the key constitutional right to challenge the credibility
+of a witness against him. In considering this issue, the U.S. Court of Appeals for the 11th Circuit
+then created a second problem with Whitton’s case. The court claimed that even though it “agreed
+with Whitton that [the witness’s] criminal-history testimony was false, and that the State knew it
+to be false,” he should be found guilty and executed anyway. In explaining why, the 11th Circuit
+relied on, among other things, evidence from a DNA test that was conducted a decade after the state
+had convicted Whitton; according to the court, the test established his guilt regardless of the
+witness issue.
+
+The Supreme Court reversed this decision, stating that the lower court acted inappropriately by
+considering a postconviction DNA test that Whitton never got to challenge and that his jury never
+got to review.
+
+Thomas and Alito would have disregarded both the witness and the postconviction issues. Their
+dissent treats Whitton as clearly guilty, flatly concluding from the start, “Gary Whitton murdered
+his friend.” The two justices go on to consider the dishonest witness testimony as a moot point,
+give great weight to the DNA never seen by the jury, and argue that Whitton failed to exhaust his
+arguments in state court.
+
+This opinion would be par for the course in Thomas’ and Alito’s jurisprudence, which tends to be
+incredibly damning toward criminal defendants. But then the opinion takes a bizarre turn toward a
+kind of metacommentary about the Supreme Court’s priorities. Thomas’ opinion argues that this
+case is just one of many examples in which “this Court routinely declines to provide relief to
+law-abiding Americans,” while at the same time providing murderers a helping hand.
+
+Thomas offers three examples of what he means by _law-abiding Americans_ who the justice says have
+been denied their rightful chance to be heard at the high court: a group of parents and students who
+claimed anti-white and anti-Asian discrimination at a public school. A widow whose husband was
+killed in a car accident by a negligent driver but who could not bring a lawsuit because of a
+federal statute preserving governmental immunity. An anti–diversity, equity, and inclusion student
+association that wanted to sue Indiana University for having bias response teams. All these groups
+petitioned the court for review in their cases. Thomas wanted the court to hear them but failed to
+persuade his colleagues to agree.
+
+The majority of his colleagues chose not to hear those cases for good reason.
+
+In the first case Thomas cites, _Boston Parent Coalition for Academic Excellence v. The School
+Committee_, a group of parents challenged a Boston high school policy that aimed to enroll students
+at racial percentages proportional to the demographics surrounding the school. But after the suit
+was filed, the school ended the policy. In other words, the case became moot, as it would have
+required the courts to weigh in on a policy the school had rescinded and replaced with one that the
+parent group preferred. Justice Neil Gorsuch explained exactly that in his opinion stating why he
+would deny cert, and a majority of the court apparently agreed.
+
+In another case, _Speech First v. Pamela Whitten_, Thomas took issue with bias response teams,
+organizations that provide resources for students suffering from discrimination on campus and that
+have drawn the ire of legal conservative groups over the past few years. The advocacy group Speech
+First challenged such a policy at Indiana University. But the problem with the group’s claim is
+that none of its members had actually been targeted by any bias response team for their speech.
+Instead, Speech First brought only preemptive claims speculating that their members’ views might
+someday in the future be chilled. University administrators explained that the anti-bias program was
+entirely optional and administratively toothless; it does not involve or even allow, for example,
+formal investigations into what plaintiffs believed would be anti-conservative voices. But Thomas
+didn’t care about the actual lack of harm. He saw a widespread First Amendment violation, and he
+would hear the case and shut down the organization—not just Indiana University’s anti-bias
+program, but the “more than 450” such groups nationwide. One might assume that if these bias
+response teams were so insidious and widespread, there would be other cases in which students had
+been unfairly targeted by public universities, providing a clearer instance for standing.
+
+Last but not least, Thomas references a case about a deceased Air Force sergeant in _Beck v. United
+States_. This concerned a service member who was killed in a car accident by a federal employee
+driving a government vehicle. After his widow tried to bring a wrongful-death claim against the
+driver and the government, the court ruled that the Federal Tort Claims Act was not broad enough to
+waive sovereign immunity for such claims, meaning that the case couldn’t go through. This is a sad
+story, and Thomas may be correct that the case is the wrong reading of the act. But as Justice Sonia
+Sotomayor explains, the case is also fairly cut-and-dried based on a Supreme Court interpretation of
+the statute dating back to 1950. In short, the lower court’s ruling had gotten the legal question
+right, and the principles of precedent did not support changing that ruling.
+
+RELATED FROM SLATE
+
+ELIZABETH WEBSTER AND BELÉN LOWREY-KINBERG
+
+KETANJI BROWN JACKSON STANDS FIRM—AND ALONE—ON COMPASSIONATE RELEASE
+
+ READ MORE 
+In summary, Thomas asks the court to attack school policies that no longer exist, make broad First
+Amendment pronouncements based on constitutional harms that haven’t occurred, and overturn yet
+another case that has been around for more than half a century. What’s odd is not that the court
+denied certiorari in any of these cases—something that happens with about 95 percent of all
+petitions. Rather, what’s odd is that none of them have _anything to do with Whitton’s criminal
+case_, which the court was considering.
+
+It’s not uncommon for a justice dissenting from a shadow-docket order to explain their reasoning,
+even in a way that compares the instant matters with other cases that have recently come before the
+court. For example, a justice might explain how a merits decision from the court, like April’s
+_Callais_ case, regarding Louisiana’s congressional maps, mightnot cover an Alabama map because of
+different facts on the ground. No, the bothersome part of Thomas’ opinion is the attempt to cast
+this court as a friend of criminals and a hater of the good, God-fearing public.
+
+In actuality, the conservative majority on the court is no ally to criminal defendants, as freshly
+evidenced in this term’s interpretations of the First Step Act. Just last week, the court ruled,
+in _Fernandez v. United States_, that prisoners cannot seek compassionate release under the 2018
+statute intended to allow exactly that relief, even if they show that their original convictions
+were inaccurate or unfairly decided. The court then issued a related ruling in _Rutherford_ that
+prisoners could not receive a reduction in sentence based on mandatory minimums that Congress had
+reduced after their conviction. As a result, someone “who faced a 32-year mandatory minimum” for
+a crime and “was sentenced to 42.5 years” would have to serve all of those decades, despite the
+mandatory minimum having later been lowered to 14 years.
+
+These are hardly examples of the court showing TLC for criminal defendants, and it undercuts
+Thomas’ claims on Monday. At most, Whitton’s case appeared to be a new opportunity to explain
+that a court could not rely on postconviction DNA evidence, an issue that has split the lower
+courts. It is in no way proof that this Supreme Court is quick or ready to defend the little guy.
+
+Thomas’ “law-abiding” opinion also sits oddly with his own place within the court’s
+decisionmaking history. After years of being in the minority with his originalist views, the justice
+has had incredible influence on the court’s decisions since the first Trump administration’s
+nominees arrived. There are books asserting that this version of SCOTUS is the _Thomas c_ourt. He
+has written his views into law in cases as consequential as the massive Second Amendment expansion
+in _New York State Rifle and Pistol Association v._ _Bruen_. And Thomas has been in the majority of
+practically every controversial opinion in the court’s recent history, including _Callais_’
+gutting of the Voting Rights Act, _Dobbs_’elimination of American women’s right to choose, and
+_Skrmetti_’s blessing of the Tennessee ban on gender-affirming care for minors. It is these cases,
+not the ones Thomas cites, that are the better examples of the court denying the rights of the most
+vulnerable members of our society. But apparently the work is not finished. SCOTUS must also take up
+and decide even more cases that Thomas would prefer, while it punishes those he determines to be bad
+people engaging in criminal enterprises. Ultimately, Thomas’ insistence on Monday that the court
+is denying the rights of law-abiding citizens is nothing more than a kind of judicial greed.
+
+GET THE BEST OF JURISPRUDENCE.
+
+Sign up for Slate’s legal newsletter.
+
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the Executive Dysfunction newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
