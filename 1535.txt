@@ -1,0 +1,145 @@
+
+
+====================================================================================================
+
+An 80-Year-Old Math Problem Has Just Been Solved. You Might Not Like How We Got the Answer.
+
+====================================================================================================
+
+Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily.
+
+Last month, OpenAI announced that its latest version of ChatGPT had solved a major math problem, one
+that had stumped experts for 80 years. This was considered among the most important unsolved
+problems in combinatorics, a prominent branch of math and computer science dealing with finite
+objects and arrangements. As opposed to previous A.I.-powered breakthroughs that involved
+back-and-forth conversations between a chatbot and a human expert, this was cracked with a single
+prompt. OpenAI employees told ChatGPT to solve the problem, and it did.
+
+Some have interpreted this as the defining moment when A.I. surpassed human prowess in math, akin to
+the moment in 1997 when IBM’s Deep Blue took down chess champ Garry Kasparov. The reality is more
+subtle—and more about economics than intelligence.
+
+First, some background on the problem that ChatGPT solved. In 1946, the wildly prolific Hungarian
+mathematician Paul Erdős asked, in essence, how to place dots on a tabletop so that the greatest
+number of pairs of dots are the same distance apart. Why did he ask this? Because it was his
+favorite kind of question: one that is simple to state yet defies a simple answer. It’s easy to
+place three dots all the same distance from each other—just use an equilateral triangle. For four
+points you can attach two equilateral triangles along an edge to make a diamond shape with five
+pairs of points the same distance from each other. But as the number of points increases, so too
+does the geometric complexity.
+
+Erdős noted that even for a very large number of dots, placing them in a square grid does pretty
+well. Imagine a large chessboard with a dot in the center of each square. If the chess squares are,
+say, 1 foot across, then walking 3 feet east and 4 feet north leads to a dot 5 feet away, since the
+old Pythagorean formula tells us that 32 + 42 = 52. Walking in these diagonal directions, as well as
+5 feet in the straight compass directions, shows that many pairs of dots on this giant chessboard
+are exactly 5 feet apart.
+
+[a chess board with dots connected by lines]
+[a chess board with dots connected by lines] Photo illustration by Slate. Photo by Alena
+Niadvetskaya/Getty Images Plus. 
+Erdős asked if we could do much better than this, and for 80 years the mathematics community only
+achieved marginal improvements. And not for lack of effort. Princeton math professor Noga Alon said
+he believes “it would be fair to say that every mathematician working in Combinatorial Geometry
+thought about this problem, and lots of mathematicians working in other areas spent at least some
+time thinking about it.” Then came ChatGPT’s breakthrough.
+
+[dots and lines]
+[dots and lines] This is an illustration of the method in the proof. The actual configuration is too
+large to appear on the page.  Álvaro Lozano-Robledo
+ChatGPT used deep facts about numbers to construct this beautiful arrangement, which many
+mathematicians find genuinely creative, not just a rehash of stuff in its training data. One math
+professor, Misha Rudnev at the University of Bristol, told New Scientist: “This is a problem that
+I didn’t expect to see solved in my lifetime.” But when I asked Daniel Litt, a math professor
+at University of Toronto who helped OpenAI vet the solution, he said that if enough mathematicians
+were locked in a room for long enough, they would have found the same solution. Now that we have
+this solution in hand, we see that it is indeed creative, but nothing beyond human imagination or
+capability. And within days, a mathematician at Princeton, Will Sawin, used good old-fashioned human
+understanding to modify ChatGPT’s construction to get an even better one.
+
+The reason humans didn’t find ChatGPT’s solution first is simple. Top math experts are in short
+supply and their working hours are limited. They must carefully choose which problems to tackle and
+which approaches to try. A lengthy calculation is not worth the opportunity cost if the chance of
+success is extremely low. A.I.s do not face this limitation. Give them a big enough token budget and
+they’ll try everything under the sun, no matter how arduous and improbable.
+
+Does this mean we can now aim ChatGPT or other chatbots at any hard math problem and expect success
+if we wait long enough and pay for enough tokens? No. We still have no idea which problems A.I. will
+succeed at and which it won’t. That’s why OpenAI didn’t single out this 80-year-old problem as
+a focused goal. They tossed ChatGPT at hundreds of unsolved math problems that the ever-imaginative
+Paul Erdős left us. This question about dots on the table just happened to be the most famous of
+the handful that ChatGPT solved. OpenAI is not alone. Google DeepMind has been applying a similar
+approach: feed A.I. systems large lists of open math problems and report any successes.
+
+That’s the part of the story that’s arguably more interesting than the 80-year-old distance
+problem or its solution. For as long as people have been solving math problems, the approach has
+been like a laser: focus intently on one problem and get as far as you can on it. Occasionally, a
+new tool or technique comes along that widens this to a shotgun: aim at a few closely related
+problems and hope that you hit one. Now, in the year 2026, we have the mathematical equivalent of
+carpet-bombing; drop a munitions-budget worth of tokens on a collection of unsolved problems and see
+what’s left standing afterward.
+
+Experts nearly universally agree that some of the hardest problems in math won’t fall to human or
+A.I. in the foreseeable future. One of these problems is the famed Riemann Hypothesis. Prime numbers
+are the key ingredient in cryptography, keeping our communications secure and our cryptocurrency
+flowing. Primes balance on a knife’s edge between predictable and random, popping up when we
+expect them but also when we don’t. The Riemann Hypothesis, often considered the most difficult
+and important problem in all of mathematics, would serve as a Rosetta stone revealing the secrets of
+the primes. And while experts don’t think A.I. will crack this one any time soon, they do expect
+that the efficacy of these A.I. carpet-bombing campaigns will increase as the technology continues
+to improve.
+
+Finding solutions to math problems at an accelerating pace this way is exciting, if a bit
+disorienting. We will have lots of fascinating solutions to look through and learn from. But
+here’s what excites me most about the brave new world of mathematics the A.I. industry has us
+careening toward: We will have a much sharper sense of what the truly difficult problems are.
+
+Previously, a problem might be unsolved because it requires genuinely new ideas far beyond anything
+in our mathematical tool kit. This is the best-case scenario, because the problem pushes us in new
+conceptual directions that often have value far beyond the original problem—and sometimes beyond
+mathematics itself. Or a problem might be unsolved simply because people haven’t tried the right
+preexisting method on it, like a janitor with a ring of keys who gives up before finding the one
+that unlocks the door.
+
+RELATED FROM SLATE
+
+NOAH GIANSIRACUSA
+
+IT’S THE GREAT FEAR OF OUR TIME. I’M MATHEMATICALLY SURE IT WON’T HAPPEN.
+
+ READ MORE 
+A nice historical example of the good kind of hard problem centers on Bernhard Riemann—but work
+far removed from prime numbers and the hypothesis that bears his name. Riemann’s Ph.D. adviser,
+the legendary Carl Friedrich Gauss, tasked him with revamping geometry to better handle curved
+spaces and more dimensions than three. This was an important problem not because of any practical
+applications, but because it was hard to do. And it was hard not because the right approach hadn’t
+been tried, but because entirely new ways of thinking were needed. Riemann found the requisite new
+ideas and solved the problem in 1854. Then in 1915, Einstein used these ideas to build his general
+theory of relativity, describing gravity as curvature in the fabric of space-time. Sixty-three years
+later, the first GPS satellite was launched and kept in orbit thanks to Einstein’s work. In sum, a
+hard math problem in the 19th century propelled the conceptual breakthroughs that underlie all the
+location services on our phones today.
+
+A.I. carpet-bombing will take care of the “easy” hard problems, and in doing so bring our
+attention to the genuinely hard ones that really matter. It will help separate the mathematical
+wheat from the chaff. It will leave the real creative work for people.
+
+Framed this way, mathematicians are not in a race against A.I.s, waiting for the dreaded Kasparov
+moment when we become supplanted. We are being given an amazing tool that will point us toward the
+most important questions in our discipline. Personally, I find that a lot more interesting than
+knowing how to place dots on a table.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
