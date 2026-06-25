@@ -1,0 +1,141 @@
+
+
+====================================================================================================
+
+The World Cup’s Ticketing Nightmare Is Finally Here
+
+====================================================================================================
+
+Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily.
+
+Last Christmas, Jeremy Wright gave his soccer-loving wife a monumental present: tickets to the
+Netherlands–Japan World Cup matchup on June 14 at AT&T Stadium in Arlington, Texas. Purchased in
+September via StubHub, with taxes and platform fees included, the two passes nearly amounted to
+$1,400—all before factoring in logistical expenses like gas for the drive from Austin, along with
+lodgings at a nearby hotel. Still, when game day arrived, Wright and his wife were all set to go,
+except for one major wrinkle: They never got the tickets.
+
+Five hours before kickoff, after spending the morning celebrating with fellow fans before attending
+the team parade, Wright received an email from StubHub informing him that his tickets couldn’t be
+transferred. When he opened the app, he was prompted to select “alternative tickets,” only to
+find that none were available. He then requested a refund but encountered a confusing series of
+prompts that required him to enter his credit card information again. When he called customer
+service, he said, a representative repeatedly told him that because he had selected the refund
+option, they could no longer assist him. “I kept asking to talk to a manager,” Wright told me.
+“To which they said, ‘We can put it in a queue and someone will call you back in 24
+hours.’ ”
+
+By the time Wright and I spoke last week, he still hadn’t gotten a callback. As for how he and his
+wife ultimately spent game day, “we were so disappointed that we drove four hours home in the rain
+and didn’t watch the match.” (A spokesperson for StubHub informed me, and Wright confirmed, that
+company reps offered him free hospitality-suite tickets to a semifinals game in Dallas–Fort Worth
+on July 14, after my request for comment from the company.)
+
+Throughout this euphoric, dramatic World Cup series, which has brought domestic and international
+tourists to North American cities from Vancouver all the way down to Monterrey, there has been one
+unfortunate motif: fans unable to access the pricey tickets that they purchased in advance, whether
+through StubHub or SeatGeek or FIFA’s official ticketing platform. Many of the aggrieved fans I
+spoke with had chosen StubHub in particular, as it commands a larger share of the
+customer-to-customer resale market and represents a _chance_, at least, to get something cheaper
+than what FIFA would allow. Or so it seemed, until they finally tried it for themselves and saw
+their purchases disappear altogether.
+
+“I get claustrophobic in large gatherings, so I chose StubHub over SeatGeek because they let you
+pick seats,” Thom Fountain, a Twin Cities–based sporting enthusiast, told me of his experience
+buying tickets for Thursday’s Netherlands–Tunisia match in Kansas City. “But they sent me a
+completely different seat in the middle of the section, and when I reached out they told me my only
+recourse was to resell the tickets or keep them.” The replacement tickets ended up cutting
+Fountain off from his refund opportunity, as per the terms of StubHub’s “FanProtect
+Guarantee,” which leaves decisions on resolutions to the platform’s “sole discretion.”
+
+There are countless other soccer spectators with stories similar to Wright’s and Fountain’s—of
+getting secondhand tickets not worth the price initially paid, or of not receiving tickets at all
+thanks to seller cancellations or transfer glitches, while seeing no relief from customer-service
+inquiries. (In fact, many unhappy fans are now talking to neighborhood reporters instead of sales
+reps.) The volume of complaints across Facebook, LinkedIn, and local news desks has swelled rapidly
+over the past month. While there is no hard data available yet on just how many tickets have been
+“sold” on one resale platform over another—such as Vivid Seats, which has also fielded World
+Cup ticketing issues—it makes sense that StubHub is getting the most public attention: It’s the
+most used resale app in the world, and it has historically been the subject of far more Better
+Business Bureau complaints than any of its competitors. (StubHub’s profile page on the bureau’s
+website, which gives it an “F” rating, has been flooded with thousands of negative user comments
+since June 2023—far exceeding SeatGeek and Vivid Seats.)
+
+On Reddit, where Wright first shared his tale of woe, communities like r/StubHub and r/WorldCup2026
+are saturated with antipathy toward ticket resellers; when you type _StubHub_ into the Reddit search
+box, an A.I.-generated description sums up the subreddit’s chatter as “World Cup ticket failures
+and calls to stop using StubHub.” Sure, some attendees may be splurging thousands on a single
+ticket, but others are getting nothing at all, even after traveling across international borders for
+games.
+
+RELATED FROM SLATE
+
+JEREMY STAHL
+
+IS THE WORLD CUP RUINED? WE ALREADY HAVE OUR ANSWER.
+
+ READ MORE 
+“When sellers don’t deliver tickets on time, StubHub investigates and takes swift action in line
+with our terms & conditions, including permanent bans and financial penalties,” a spokesperson for
+StubHub wrote in a statement to Slate. “The transfer failures fans have encountered stem from
+performance issues with the event organizer’s own app infrastructure—a challenge that affects
+all resale platforms operating at this tournament—and we are trying to engage with the event
+organizer directly to address it.” According to the spokesperson, “the vast majority of World
+Cup orders on StubHub have been fulfilled successfully.”
+
+Other buyers would say, however, that such issues long predate the current soccer bonanza. StubHub,
+which merged with the controversial British ticket exchange Viagogo in 2020, has been racked with
+various scandals over the years: paying out a $10 million federal settlement over deceptive pricing
+practices, allowing “speculative tickets” (listings from resellers who do _not_ actually hold
+the relevant tickets) to run rampant, and retracting high-level sports and concert tickets from
+consumers in order to gouge their prices and re-resell them. But the World Cup in particular seems
+to be exposing the full extent of a problem StubHub has faced during other large-scale events, like
+Zach Bryan and Taylor Swift tours: It’s too easy for the system to get overwhelmed with
+potentially deceitful or inconsistent sellers, along with desperate deal-seekers who don’t really
+know what they’re buying, and one company cannot handle all those complaints efficiently—even
+after automating much of that support system.
+
+“Nobody’s really solved how to get tickets to clients faster on the secondary side, and it seems
+like StubHub hasn’t made too much progress, which is disappointing to see,” Taylor Hagstrom, an
+Atlanta-based customer experience representative who worked with StubHub’s Global Fan Experience
+team in 2024 and 2025, told me. On that team, Hagstrom took messages (calls, emails, chats) from
+ticket buyers and collaborated with the company’s sellers division to resolve reports. “All
+those escalations showed _clearly_ that ticket delivery is one of the biggest points of pain for
+customers, so why not put as much energy behind solving that as possible?”
+
+Hagstrom had to handle consumer escalations for “tough” events, like the Masters and the NFL
+playoffs, so he had a clear view of where StubHub needed to improve: accelerating the
+ticket-transfer process and leaving more time to handle potential disputes before an event begins.
+There are measures the company has adopted over the years to bolster its platform against myriad
+vulnerabilities: adopting cybersecurity programs to preempt automated bot accounts, and expanding
+protections for music festival mishaps. But the list of issues is still long (lack of thorough user
+verification, susceptibility to hacks, nontransparency around fees), and the fixes are slow, per
+Hagstrom. “We would work with our various technology teams to try to improve the site. I know
+they’re trying to make these timelines tighter,” he said, “but the whole place needs to put
+consumer insights back in their focus.” (After publication, a StubHub spokesperson wrote to Slate
+that “Primary ticketing companies and event organizers control when tickets are released, directly
+impacting when they can be transferred. For high-profile events like the World Cup, some tickets are
+only made available hours before a match starts, which makes transfer more difficult and creates
+confusion for fans.”)
+
+The World Cup goes until July 19, so unless something drastically changes, and soon, more consumer
+insights will inevitably pile up for StubHub—in the form of endless and increasingly prominent
+complaints from buyers who trusted the platform and its sellers with their money. After all, nearly
+every source I spoke to for this story told me they’ll never use StubHub again.
+
+This piece has been updated with additional comments from StubHub.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
