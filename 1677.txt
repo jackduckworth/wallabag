@@ -1,0 +1,164 @@
+
+
+====================================================================================================
+
+The Real Trump Scandal in the Explosive Diarrhea Outbreak Story
+
+====================================================================================================
+
+_Sign up for_ _Executive Dysfunction__, a newsletter that highlights one under-the-radar story each
+week about how Trump is changing the law—or how the law is pushing back. You’ll also receive
+updates on the latest from Slate’s Jurisprudence team._
+
+For as common as food poisoning is—according to the Food and Drug Administration, there are
+approximately 48 million cases in the U.S. each year—rarely do outbreaks go viral, both literally
+and culturally, like _Cyclospora_ has over the past month. One reason this outbreak has proved the
+exception is likely due to the pathogen’s “explosive diarrhea” side effect, and the lowbrow
+comedic opportunities that naturally arise. But an even bigger reason is that we continue to know
+relatively little about its origin. Given the state of epidemiology and data analysis, food
+poisoning probably _shouldn’t_ be a monthlong mystery, and yet here we are.
+
+Surely the decimation of federal government agencies, among them the Centers for Disease Control and
+Prevention and the FDA, factors into why this outbreak remains a mystery. The Foodborne Diseases
+Active Surveillance Network, a collaborative federal-state program led by the CDC, saw its funding
+drastically cut by Health and Human Services Secretary Robert F. Kennedy Jr. in July 2025, when
+FoodNet went from surveilling eight pathogens to two, with _Cyclospora_ joining _Campylobacter_,
+_Listeria_, _Shigella_, _Vibrio_, and _Yersinia_ on the ignored pile.
+
+To use the terminology of the late Supreme Court Justice Ruth Bader Ginsburg, Kennedy has been
+throwing away umbrellas in the middle of a storm left and right since he took the helm: Monitoring
+for measles, screwworm, flu, and Ebola all saw funding cuts. Who needs umbrellas when you’ve got a
+tanning bed, a chin-up bar, beef-tallow stockpiles, and a gallon of only-sometimes-poisonous raw
+milk? The CDC and FDA have lost at least 6,000 workers, many arbitrarily, many in crucial positions.
+Kyle Diamantas, a lawyer with no public health credentials and a hunting buddy of Donald Trump Jr.,
+now leads the FDA, while Jay Bhattacharya, who made a name for himself advocating for herd immunity
+during the COVID-19 pandemic, leads the CDC.
+
+Poop jokes and memes aside, cyclosporiasis is a serious parasitic foodborne intestinal illness whose
+symptoms include nausea, fatigue, and explosive diarrhea that can last weeks or even months without
+antibiotic treatment. Tracing its source poses particular difficulties for two reasons: an
+incubation period of up to two weeks before symptoms first appear, and lack of a genetic
+fingerprint, unlike, say, _E. coli_. Monitoring like FoodNet had previously been doing, is helpful,
+but it’s difficult to make direct causal connections based on what-ifs, no matter how likely.
+Moreover, one expert I spoke with, Sarah Taber, a small farmer and crop scientist, describes FoodNet
+as a “long term library of disease data,” not a reactive tool that’s useful in real time.
+There are more obvious culprits for HHS’s failure to protect Americans from this outbreak.
+
+The purpose of the Food Safety Modernization Act, passed in 2011 and signed into law by President
+Barack Obama, with strong bipartisan support, was to shift the federal response to foodborne
+illnesses from reaction to prevention. Per the act, the FDA was ordered by Congress to establish
+traceability standards for high-risk foods, but the food industry pushed back, asking for additional
+time to comply with recordkeeping and coordination demands, citing complexity. As the most recent
+due date approached this past January, Congress stepped in, instructing the agency to delay
+enforcement of the Food Traceability Rule until July 20, 2028. Seventeen years after the FSMA was
+passed, the FDA is still _reacting_ to the sorts of foodborne illness breakouts the act was intended
+to preemptively address.
+
+The FTR, if it ever becomes enforceable, would require entities directly involved in the food supply
+chain to keep electronic records documenting “critical tracking events” and predefined “key
+data elements” of any foods on a “Food Traceability List,” enabling the FDA to track
+contaminated food through the supply chain much more rapidly during outbreak investigations.
+
+Everyone I spoke with described the current process of tracing foodborne illnesses as laborious and
+slow and hampered by an absence of a unified approach. State health agencies take the lead in
+interviewing patients, and those agencies are disparately funded. Impacted companies also do much of
+the investigative legwork, out of necessity and self-interest.
+
+Last week, Taco Bell announced that it had voluntarily removed potentially affected lettuce from its
+supply chain; the FDA followed up the same night with an announcement of its own, stating that per
+“epidemiological information collected by CDC,” 1,644 people infected with _Cyclospora_ reported
+having also eaten at Taco Bell in five states between May 13 and July 13. The FDA’s release also
+noted that its own investigation identified a “single supplier of iceberg lettuce from Mexico used
+by Taco Bell,” but oddly declined to name the supplier.
+
+The next day, that name emerged: California-based Taylor Farms, the third-largest producer of fresh
+produce in the U.S., specializing in packaged salad kits and fresh-cut vegetables. The company,
+which employs at least 20,000 people and operates an estimated 30 processing plants, reported
+$6 billion in revenue in 2022.
+
+Less than 24 hours after the FDA had warned the public about Taco Bell in five states, Taylor Farms
+quietly issued a recall notice identifying a string of products from its plant in Central Mexico
+that had been distributed between June 29 and July 16 to 29 U.S. states. The recall notice is
+remarkable in its opacity, identifying the outlets by internal code names instead of ones the public
+would recognize (e.g., _MARK_, rather than _Walmart_). The FDA’s accompanying announcement was
+also odd, choosing to pinpoint the supplier as “Taylor Farms de Mexico of Guanajuato, Mexico,”
+as if to subtly insinuate that the company was Mexican instead of a Californian company operating a
+plant in Mexico.
+
+Taylor Farms provided more fuel for suspicion after it removed a note from its website that had
+claimed that “no Taylor Farms–branded salads or kits are associated with this outbreak,” an
+omission that was caught by Consumer Reports’ Paris Martineau, who pointed to the inclusion of a
+_TF_ brand in Taylor Farms’ recall notice. Does _TF_ stand for _Taylor Farms_? Maybe, and perhaps
+even probably, but who can actually say? Not the public.
+
+According to the New York Times, the very same night the agency was blaming Taco Bell, Taylor Farms
+executives were meeting with officials from the White House and the FDA “to try and distance the
+company from the outbreak and air concerns about the official investigations into the outbreak.”
+
+If the obfuscatory messaging and attempts to duck transparency by the seemingly concerted efforts of
+the FDA and Taylor Farms aren’t yet painting a clear picture, consider also that Taylor Farms (as
+Taylor Fresh Foods Inc.) donated $1 million to the MAGA Inc. super PAC on March 26, 2025, less
+than a week after the agency announced that it would delay enforceability of the FTC until 2028.
+Taylor Farms has donated more than $3.8 million to conservative groups, and CEO and founder Bruce
+Taylor has personally donated more than $1 million to Republican-aligned PACs over the past two
+decades.
+
+Then, on Sunday, the story got much stranger when the FDA announced that the sample provided by
+“Taylor Farms de Mexico,” which had initially tested positive, was actually a false positive.
+Taylor Farms quickly issued an audacious statement: “Today, FDA apologized to us,” which is
+_not_ what the agency did. Did the FDA run interference for Taylor Farms? That seems exceedingly
+likely. Did it confuse the public? Definitely.
+
+RELATED FROM SLATE
+
+NADIRA GOFFE
+
+THE “EXPLOSIVE DIARRHEA” OUTBREAK MAY COME DOWN TO A FAMILIAR CULPRIT. THIS KEEPS HAPPENING FOR
+A REASON.
+
+ READ MORE 
+Jennifer McEntire, a food safety consultant, assured me that this statement in no way exonerates
+Taylor Farms, because it “does not change the traceback (combing through supply chain records to
+reconstruct the path products took in order to see if, when looking at all the places ill people
+ate, they have a common source) and epidemiology that led the agency to implicate Taylor Farms
+Mexico facility.”
+
+I also spoke with Bill Marler, a Washington-based attorney who has litigated numerous food poisoning
+cases against the food industry, who made a similar point on his blog: “The lots that sickened
+more than a thousand confirmed cases—against state-reported numbers many times higher—were eaten
+and thrown away long before anyone thought to swab anything. A negative product sample in a
+_Cyclospora_ outbreak, or the absence of a positive one, proves nothing.”
+
+Indeed, both the FDA and Taylor Farms made clear that the company, “in an abundance of caution,”
+will go through with the “voluntary” recall. But the public messaging could not be more
+duplicitous. At a time when the CDC has tracked nearly 7,000 confirmed cases nationwide, 4,300 of
+them in Michigan—all surely undercounts, given that many people won’t bother to seek medical
+care for diarrhea—the FDA appears preoccupied with affording Taylor Farms a degree of plausible
+deniability, while amplifying its clunky attempts to shift blame onto Mexico and Taco Bell. These
+tasks are in sharp conflict with the agency’s congressional mandate to serve the public, whose
+trust in the government is already at a historic low.
+
+Of course, so much of what’s otherwise known points a finger directly back at Taylor Farms,
+false-positive atom splitting notwithstanding, and there’s only so much the company can do to
+deflect. Its PR team would likely better serve Taylor Farms by being fully transparent with the
+public, but it perhaps shouldn’t surprise anyone that a company willing to align itself with this
+administration, as Taylor Farms has, would approach admitting fault as a third rail.
+
+Improving food traceability in response to foodborne illnesses was unambiguously addressed by
+Congress 15 years ago, but the players to whom it would apply and obligate, Taylor Farms prominent
+among them, are squarely in the way of its implementation.
+
+SIGN UP FOR EXECUTIVE DYSFUNCTION
+
+Delivered every Thursday morning.
+
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the Executive Dysfunction newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ Send me updates about Slate special offers. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
