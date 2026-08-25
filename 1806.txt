@@ -1,0 +1,159 @@
+
+
+====================================================================================================
+
+After months with Bitwarden, I found a free offline password manager that works better
+
+====================================================================================================
+
+ [KeePassDX password manager with a password vault, padlock, key, and hidden password
+fields.]Credit: Lucas Gouveia / Android Police
+
+I started using Bitwarden's password manager service a while back because the app has genuine
+strengths.
+
+But when I started cutting down on my subscriptions, I wondered if there was an open source way to
+store passwords without shelling out money every month.
+
+That's when I came across KeePassDX and gave it a shot.
+
+After I got the hang of the app, I canceled my Bitwarden subscription and never looked back.
+
+ KEEPASSDX IS AN OFFLINE PASSWORD MANAGER I NEVER KNEW I NEEDED 
+
+ STAYING OFFLINE AND LOCAL 
+
+	* [KeePassDX icon on phone screen next to Proton mail icon]
+	* [KeePassDX database page showing add entry and add group options]
+	* [KeePassDX showing saved password for a social media website]
+	* [A set of colorful puzzle pieces featuring the logos of Chrome, SquareX, Bitwarden, Privacy
+Badger, and Proton VPN.]Credit: Lucas Gouveia / Android Police
+	* [Illustration of a password manager with passwords, keys, and padlocks]Credit: Lucas Gouveia /
+Android Police
+
+I'll be the first one to admit that Bitwarden is a fantastic product. It's an excellent free
+password manager that does the job.
+
+But I subscribed to the family plan so that all my immediate family members could use the premium
+features.
+
+But when I discovered KeePassDX, I was intrigued by its local and offline-first client.
+
+I've been trying to de-Google and cut down on cloud services recently, and KeePassDX looked like a
+viable replacement.
+
+With KeePassDX, I don't need to register an account or have my passwords sit on any app's server.
+
+My entire password database was in a single file that I could control.
+
+Bitwarden is a great product for someone who doesn't want the hassle of setting up a local password
+manager and having everything sync via the cloud.
+
+But if you're like me, constantly worried about cloud breaches, privacy, and policy changes in SaaS
+(Software as a Service) apps, KeePassDX is the answer.
+
+It works like Bitwarden after you've stored your passwords in the app. KeePassDX supports the
+Android autofill framework, which works better than anything I've used.
+
+Bitwarden often fails to Autofill fields in certain apps and websites; that's not a problem with
+KeePassDX.
+
+After you've stored your passwords, you can sync the local database file across other devices,
+including desktop computers.
+
+What's neat about KeePassDX is that it's lightweight and doesn't need to be connected to a cloud.
+
+Other nifty features, like groups, attachments, a password generator, a 2FA code generator, and
+customization options, eliminate the need for many apps.
+
+Setting up KeePassDX might seem daunting at first, but it's quite straightforward. Still, make sure
+you have a strong master password in mind before you start.
+
+ HOW TO SET UP KEEPASSDX ON YOUR ANDROID PHONE 
+
+ IT'S NOT AS DAUNTING AS IT SEEMS 
+
+ [KeePassDX page showing master password for database] 
+KeePassDX doesn't do a great job explaining what you need to set up to get the app going.
+
+But since it's a local, offline password database manager, it starts to make sense after you go
+through the process.
+
+First, create a new vault or import one from a .KDBX file, then store it in your internal storage or
+SD card.
+
+After you create or import a vault, you are asked to create a password. Remember, this is the master
+password you need to log in each time.
+
+Write down your master password somewhere safe, as you can't access your database if you forget or
+misplace it.
+
+Alternatively, you can use biometric login to access KeePassDX if you don't want to type the master
+password each time.
+
+But if you are planning to sync the database with other devices later, you will still need the
+master password.
+
+You can also enable KEYFILE, an additional security layer. When syncing with other devices, you will
+need both the master password and the keyfile if you choose to use it.
+
+Now that you've created a vault, you can start adding passwords to KeePassDX.
+
+You can import your passwords into KeePassDX, but first import the CSV or JSON file into KeePassXC
+on a desktop computer, then export it to a .kdbx file.
+
+Storing passwords for various websites and apps is simple. Here are the steps you'll follow:
+
+	* Open KeePassDX and enter your master password to unlock your .kdbx database. 
+ 	* Tap the + button in the lower-right corner to add a new password entry. 
+ 	* Fill in the TITLE, USERNAME, and PASSWORD fields for the website or app you're using. 
+ 	* To generate a secure password, select the KEY/DICE symbol next to the password field. 
+ 	* Click the SAVE icon to save your credentials to the database. 
+
+After you've saved all your passwords, you'll tweak one last setting on your phone to use the
+autofill feature.
+
+On your phone, go to SETTINGS > PASSWORDS & ACCOUNTS, then link KeePassDX to use passwords from your
+database to log in to websites and apps.
+
+ SYNCING PASSWORDS ISN'T AS EASY AS BITWARDEN 
+
+Since KeePassDX doesn't have cloud features, you decide how to sync your database across devices.
+
+This is where I feel Bitwarden has the advantage over KeePassDX, since you can sync your database
+across unlimited devices.
+
+The easiest way to sync databases is to export the .kdbx file from KeePassDX on your phone and
+upload it to Google Drive, Dropbox, or any other cloud storage service.
+
+You can then import that file to another device with KeePassDX installed. If you have multiple
+devices such as a phone, tablet, and a computer, syncing updated databases can be cumbersome.
+
+Since I don't want my passwords stored on a server that is vulnerable to a breach, I came up with my
+own solution.
+
+Instead, I use an open source app called Syncthing to sync the database file across all my devices.
+
+It updates and syncs the .kdbx file across all my devices automatically whenever I'm on the same
+network.
+
+Bitwarden has another advantage many users care about that KeePassDX does not offer.
+
+Because it's local and offline, KeePassDX doesn't support family sharing. So if you're on a family
+plan on Bitwarden, the switch might not be worth it.
+
+Yes, you can set up KeePassDX for every family member, but maintaining a separate password database
+for each will be a nightmare.
+
+Unless your family members know how to set up Syncthing on their phones or remember to export the
+database file to Google Drive periodically, you're better off sticking to Bitwarden.
+
+ WHY I DON'T NEED TO TRY ANY OTHER PASSWORD MANAGER 
+
+KeePassDX meets all my requirements for a password manager. It's offline, local, and ad-free.
+
+It's a true open source alternative to Bitwarden, LastPass, and other password managers that rely on
+cloud services vulnerable to hacking or data breaches.
+
+Sure, syncing your password database across devices can be a pain, but saving money on a
+subscription is worth the trade-off.
