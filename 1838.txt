@@ -1,0 +1,100 @@
+
+
+====================================================================================================
+
+Silicon Valley Is Making Its Wildest Promises Ever. This Number From Anthropic Proves It.
+
+====================================================================================================
+
+Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily.
+
+When Elon Musk was getting ready to take SpaceX public in June, the company advertised, in its
+government paperwork, the largest “total addressable market” in human history: $28.5 trillion
+per year, with $26.5 trillion (lol) attributed to artificial intelligence. A TAM is a company’s
+assessment of all the money it could theoretically capture in every market it could serve. For an
+ice cream truck visiting a summer camp, the TAM is all the kids at the camp multiplied by how much
+ice cream each kid would buy that summer. A big TAM tells investors that capturing even a sliver of
+the market could mean a great business. SpaceX’s claim is that its total addressable market is
+nearly 90 percent of the United States’ gross domestic product.
+
+This $28.5 trillion claim is a _lot_. Of course, Musk is a serial fabulist who says tons of things
+that don’t pan out, and he’s also functionally not subject to the country’s laws while acting
+as the donor kingpin of Republican politics during a Republican presidency. But this $26.5 trillion
+claim was still interesting, because it’s not like that immunity from the law applies to all the
+lawyers and bankers doing the paperwork for him. _They_ can’t safely lie on Securities and
+Exchange Commission forms, and yet here those forms were.
+
+That realization hit again last week, when the Wall Street Journal reported that A.I. rival
+Anthropic will project a total addressable market of $30 trillion. (The company already
+confidentially submitted its forms, so we’ll probably know soon.) SpaceX had barely finished
+making the most exorbitant market claim in capitalist history before word leaked that Anthropic
+would make a bigger one. “A.I. company makes big, brash economic claim” isn’t surprising, but
+these stories were striking because of the medium involved. You can maybe get away with a lot of
+bullshitting in panel discussions and press releases, but these are _documents filed with the SEC_,
+and the titans of A.I. are not chilling out in this venue either. And whatever Musk can get away
+with because federal authorities now do whatever Donald Trump wants, Anthropic’s situation is the
+reverse. This company gets special treatment the other way because the big man doesn’t like them.
+
+In theory, going public should be the moment when A.I. companies start talking in slightly more
+restrained terms so that they aren’t sitting ducks for prosecution and civil suits. But rather
+than dialing anything back, the big players are just revving their engines more and more. This seems
+to present two options: You really can just say anything in an SEC filing now, or the barons of A.I.
+are somewhere between high on their own supply and under the sincere impression that they’re about
+to own the world.
+
+There’s room for marketing and hype here, sure. The SEC reviews paperwork to make sure it follows
+disclosure rules but doesn’t weigh in on its accuracy. An estimate of a market size is not a
+promise to take over 100 percent of the market, and that leaves room for an over-the-top pitch. But
+investors can sue over “material” falsehoods and omissions, and they often do. Calling something
+an estimate doesn’t shield a company from scrutiny either. Not even two years ago, a much
+different SEC charged and settled with the biotech company Zymergen after the company claimed a
+$1 billion TAM while, the SEC said, its internal teams were projecting a market many times smaller
+than that. Former executives and insiders agreed to a $125 million settlement in a related class
+action. All of this for a company that was way off on a $1 billion TAM projection. It makes you
+wonder what might support _tens of trillions_.
+
+In SpaceX’s case, Musk’s people at least laid out their $28.5 trillion “math,” and you
+could chuckle at how silly it was. Most of it was a $22.7 trillion estimate for A.I. enterprise
+applications, based on the value of the entire digital economy. (SpaceX admits that its A.I. cannot
+yet address this market in full.) There was also a TAM of $600 billion per year in “digital
+advertising,” which the company noted was the entire world’s digital advertising market in 2025
+outside of Russia and China. SpaceX counted all of that as a market it could compete for, because
+the company owns what used to be Twitter. OK! That’s Elon Musk!
+
+Anthropic will have to get to its own market projection without owning a declining microblogging
+platform, and until its documents are public, we won’t know how the company justifies it. The
+Journal has offered a preview, saying the company is “looking at the full scope of work that could
+be completed with AI models.” Anthropic will also have to figure out how to sell A.I. without
+burning cash. (Anthropic’s description of its current profitability will be _very_ interesting.)
+But these guys are capturing a ridiculous volume of cash: an annualized rate of $47 billion as of
+May, which isn’t the same as money in the bank but could also undersell things if the company has
+grown. I think that if you are still insisting that every A.I. business will go up on smoke, it’s
+time for an update. You are wishcasting rather than looking at the world as it is.
+
+Hardened priors go both ways, though. Anthropic is a real business that needs to justify
+extraordinary and frankly outrageous valuations and infrastructure spending to keep the party going.
+Projecting a market of (approximately) infinity dollars is one way to do that. Reuters noted that
+the big projection would “anchor the growth story behind its planned IPO,” a story the rest of
+us aren’t obligated to tell.
+
+But it _is_ a new development that these companies are going public and now telling those growth
+stories in ways that are, in theory, more legally reviewable. A.I.’s most famous people have
+habits of making big, bold assertions about the technology and then softening them over time.
+However, these walkbacks have tended to be easy to make, because they’ve been in response to A.I.
+being less disruptive than they first projected. Sam Altman acknowledged on a podcast this week that
+“we’ve all been too ambitious on the timelines,” but he was able to talk softly about how that
+was a good thing. In the spring, he explained he was “delighted to be wrong” about A.I. taking
+more people’s jobs. The past half-decade of lofty A.I. statements has come without many
+consequences, because when they’ve been wrong, they’ve been wrong in ways that seem good for
+society. They’ve often come from people at private companies whose investors were not going to sue
+them even if they thought they had a good reason.
+
+This is a slightly different frontier, where big claims are tied to newly public companies that
+could cause immediate havoc if they do poorly. Anthropic’s forthcoming projection seems to be that
+it can be unlike anything that’s ever existed in business. If a company tells the world its total
+addressable market is $30 trillion, it might not have to bring in _$30 trillion_ to look like an
+honest broker. But it should probably become one of the most impressive businesses ever, right? If
+not, wouldn’t that invite pretty harsh recriminations from either aggrieved investors or motivated
+regulators and prosecutors? At the least, those responses seem more likely than if the boss were
+tossing around vagaries on a podcast.
