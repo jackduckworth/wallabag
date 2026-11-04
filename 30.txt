@@ -1,0 +1,52 @@
+
+
+====================================================================================================
+
+Buried in Spam? There’s a Hidden Trick in Gmail to Make Your Inbox Less Chaotic.
+
+====================================================================================================
+
+_Sign up for the Slatest_ _to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+_This is_ _One Thing__, a column with tips on how to live._
+
+The other day, Slate’s VP of technology, Greg Lavallee, dropped a tip into a Slate Slack
+discussion that immediately changed my life for the better. If you are one of the billion-plus
+people who use Gmail, there is an extremely easy way to unsubscribe from marketing emails:
+
+[In the gmail menu, the cursor is pointing to Manage Subscriptions.]
+[In the gmail menu, the cursor is pointing to Manage Subscriptions.] Screenshot from Greg Lavallee
+
+• Video from Slate 
+
+In a tab labeled “Manage subscriptions” in the left rail of the Gmail interface, there’s a
+list of all the promotional emails and newsletters that regularly make their way into your inbox.
+Next to each one is an unsubscribe button. Two clicks, and you’re done. (You can also easily see
+all the emails you’ve been sent recently by whatever hair-care company or politician, to jog your
+memory on whether you do actually get value out of them.)
+
+Gmail quietly rolled out the feature in July of 2025. It’s funny how the dumbest tech innovations
+are the ones that make a splash; as of this writing, everyone is correctly up in arms at the
+admission of the former CEO of Yahoo that she sees value in asking artificial intelligence to
+surface bullet points on what makes her daughter special; this is a “service” that she is trying
+to monetize. And yet, what often makes life easier is _less_ tech, not more. I dream of an inbox
+that contains only messages that I really need to see, for example, not one that keeps me tethered
+to every brand and political party I’ve ever come into brief contact with. (I bought one pair of
+beautiful, eccentric shoes over the summer, and now I am constantly at risk of spending hundreds of
+dollars more on such shoes, due to marketing emails, and for what?) This won’t solve our inbox
+woes wholesale, but it will, at least, offer an easier path to a little relief.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ I consent to pixel tracking to improve this newsletter and the overall user experience. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
