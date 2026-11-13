@@ -1,0 +1,129 @@
+
+
+====================================================================================================
+
+This Is a Very Embarrassing Way to Find Out How the Economy Works
+
+====================================================================================================
+
+_Sign up for the Slatest_ _to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+Things went downhill very quickly this week for Nvidia CEO Jensen Huang, one of the eminent
+figureheads of the global artificial intelligence boom. Not long after his extramarital relationship
+with a Chinese spy—and the Trump administration’s active cover-up—was publicly revealed, the
+New York Times reported that Huang had had _another_ affair with one of his direct reports. Mere
+hours after the news broke, Nvidia’s board of directors convened to figure out what to do about
+their philanderer in chief; Huang then stepped down Thursday morning, with the board appointing CFO
+Colette Kress as his interim replacement. Shortly after _that_ switcheroo was made official, Reuters
+reported that he had engaged in yet another tryst with a second Nvidia employee.
+
+“Jensen’s contributions to NVIDIA are profound,” the board wrote in its press release.
+“NVIDIA is one of the most consequential technology companies in the world.”
+
+• Video from Slate 
+
+Somehow, those are both remarkable understatements. Jen-Hsun “Jensen” Huang is a Taiwanese
+immigrant who trained as a microchip engineer during the 1980s personal-computer revolution, then
+launched Nvidia in 1993 to produce more of the intricate semiconductors that gave Silicon Valley its
+name; he’s thus inextricable from the highly valued company that’s come to be the most essential
+hardware vendor of an A.I. age that demands more and better chips by the day. The leather-jacketed
+Huang has been CEO of Nvidia since the beginning, and he savvily pivoted the corporation’s focus
+once generative A.I. sped off. His business deals are key for keeping the stock market roaring. His
+products are so treasured that Huang is now something of a geopolitical kingpin, earning an upfront
+view of the trade negotiations purportedly intended to maintain the United States’ technological
+lead over China—_and_ to help his home country, Taiwan, expand the foothold of its all-important
+Semiconductor Manufacturing Company.
+
+It’s nigh impossible to succinctly convey how vital this man has been to the new global arms race,
+how singularly intertwined his cult of personality is with one of the most powerful corporations of
+the modern age. (As Huang biographer Stephen Witt put it in a recent _Hard Fork_ interview:
+“Nvidia _is_ Jensen, to a degree that I’ve almost never seen in any other corporation.”) His
+misdeeds and resignation aren’t merely alarms as to the fragility of the A.I. bubble. (Look at my
+plummeting tech stock market, dog.) They’re set to influence the future trajectories of the
+largest global economies and trade routes. The memes pointing out how an entire sector has relied on
+one man’s libido are thus closer to the truth—and far more troubling—than they may otherwise
+appear.
+
+Unless you’re an especially nerdy gamer, you may not have known much about Nvidia prior to 2023,
+when it rode a wave of ChatGPT-era hype to become the ninth publicly traded trillion-dollar
+corporation in American history (and, subsequently, a bit of a meme stock). Nvidia was first and
+best known for developing video cards that helped the burgeoning gaming industry incorporate
+increasingly lifelike, sophisticated graphics that once rudimentary consoles and PCs couldn’t
+otherwise handle. That positioned Nvidia perfectly for A.I., as major steps forward in visual
+autogenerations and rapid-pace text outputs were enabled by the very chips that could keep intensive
+video games running without overheating. But the A.I. boom proved to be a more formidable beast. The
+demand for Nvidia’s graphic processing units in particular escalated so quickly that it became an
+all-around market leader for the broader semiconductor industry, its shortages and production
+rollbacks and order pileups and supply restrictions becoming indicative of market health as a whole.
+
+There was also the China factor. Almost everything about the American A.I. agenda, under Presidents
+Joe Biden and Donald Trump, has been positioned in opposition to our great-power rival—maintaining
+competitive advantages in computing power, research, and real-world deployment. Yet Huang, in spite
+of his Taiwanese origins and business ties with TSMC, never sounded as China-hawkish as his fellow
+A.I. executives. He’s publicly hedged on the matter of his home state’s sovereignty, he
+personally traveled to China amid the peak of Trump’s tariff-based trade-warring, and he
+repeatedly objected to the trade restrictions that both China and the U.S. imposed on the former’s
+access to Nvidia’s most premium chips.
+
+RELATED FROM SLATE
+
+STEFFI CAO
+
+JENSEN HUANG HAS FALLEN INTO THE WIFE GUY TRAP
+
+ READ MORE 
+Certainly, Nvidia has long had exposure to the Chinese market, with the People’s Republic
+accounting for nearly a quarter of the company’s data center revenue as of 2023. There was sheer
+business interest here, despite Nvidia’s ballooning income from several other countries. But what
+the spy scandal astoundingly demonstrated is that the Trump administration is not as China-hawkish
+in practice as in rhetoric. As my colleague Ian Prasad Philbrick noted, the U.S. government already
+agreed last year to roll back some of the Biden administration’s export controls as Huang lobbied
+the new president (and donated handsomely to the ballroom). More alarmingly, Trump’s circle _knew_
+that Jensen’s paramour Alice Huang (no relation) had connections to Chinese intelligence, yet
+_allowed_ Nvidia’s CEO to sell chips to her Singaporean company, Megaspeed International. Notably,
+Nvidia reported early last year that about one-fifth of its all-around revenue hailed from
+Singapore, then erased those numbers from follow-up statements after the Commerce Department began a
+probe into Megaspeed—which it wound down after Nvidia asked the feds to lay off.
+
+“Once Congress started asking whether a suspected Chinese intelligence asset had access to the
+CEO, Huang could no longer walk into a meeting with regulators or contracting officers without that
+question walking in with him,” wrote tech lawyer Eugene Rome in a statement to Slate. “Every
+license application and contract renewal would have become about him and his relationship with the
+spy—and any other compromising personal relationships—instead of the company.”
+
+What we have here isn’t limited to the matter of an American CEO who let the glory get to his head
+and began comporting himself as a Casanova. (Many such cases.) The geopolitical deceptions here
+frankly amount to nothing less than a major rethink of how _the global A.I. industry has been
+operating_. The sector-centric saber-rattling with China, sold to the American public as the basis
+for aggressive data center buildouts and increasingly unwelcome A.I. applications, is revealed to
+have been kayfabe at best (at least, under the easily flattered Trump). The people of Taiwan, who
+once had such pride in their countryman’s global success, feel betrayed that even _he_ sold them
+and their key industry out to the Chinese forces that persistently threaten their autonomy. The
+nature of our tech trades with an entire region, Southeast Asia, will have to be probed. And, most
+saliently for you and me: The man who birthed the company that’s made the A.I. rush possible is no
+longer there, and there’s no clear successor with the same levels of internal knowledge, ability
+to inspire employees, willingness to flatter Trump, and get Wall Street hyped the heck up.
+
+What l’affaire Huang ultimately portends, then, is nothing less than an overhaul of the wholesale
+A.I. business as we know it, further muddying the future of this economy-propping,
+job-market-disrupting, politics-exploding realm. No one quite knows where we go from here. The only
+thing we know: Jensen Huang, the man who once defined this tech revolution as we know it, will no
+longer be leading that charge.
+
+This article has been updated with a mention of Jensen Huang’s alleged third affair with another
+Nvidia employee.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ I consent to pixel tracking to improve this newsletter and the overall user experience. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
