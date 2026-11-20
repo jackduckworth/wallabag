@@ -1,0 +1,165 @@
+
+
+====================================================================================================
+
+Tech Billionaires Really Do Think We’re All Idiots, Don’t They?
+
+====================================================================================================
+
+_Sign up for the Slatest_ _to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily._
+
+One week after the blue wave swept at the midterm elections, Palantir CEO Alex Karp announced that
+he was actually super liberal. Possibly the best liberal that you have ever seen. Certainly a better
+liberal than you.
+
+“I’ve been a Democrat my whole life,” he said in an interview with Politico. “I grew up in a
+far-left environment. I know more about being a progressive than almost anybody on the planet, and I
+absolutely believe Palantir—all of our products are essentially progressive.”
+
+He isn’t the only billionaire who’s seemed to change his mind. Elon Musk, who is most famous for
+aligning himself with far-right politicians and also Looking Like That, and who spent $277 million
+on Donald Trump’s campaign and $474 million to try to stop Democratic Sen. James Talarico from
+getting into office, logged onto a video call at a New York Times summit this week and said the
+following words: “I’m not MAGA.” Yes, the guy who maybe Nazi-saluted, the guy who called
+himself “dark MAGA” last year, the guy who hit the _High School Musical_ jump at a Trump rally
+is not—not!—a Republican. You’re the one with that silly idea!
+
+• Video from Slate 
+
+“I’m not sure what MAGA means,” Musk said. “If that means sort of blind adherence to a set
+of policies by the Republican Party, then I certainly don’t have that.”
+
+Meta has also tried to go purple, deepening ties with Democratic Washington veterans during the week
+of the election after CEO Mark Zuckerberg spent so long cozying up to the Trump administration.
+(Here’s some photos of them laughing and smiling and leaning their foreheads into each other.)
+Microsoft and Apple have also hired Democratic lobbyists to brace for the inevitable probing and
+questioning that they face after so flagrantly and openly playing in voters’ faces for the past
+four years as they so belligerently played a role in the politics that impacted everyone’s lives.
+Big Tech is hitting Uno reverse on the past two years—but I have some questions about what,
+besides their proximity to the people signing the checks, these billionaires actually intend to
+change.
+
+Take Karp, whose progressive credentials appear to include everything other than what he does to
+make his money. One could make an argument that Karp could be considered liberal, in some twisted
+sense of the word. There’s evidence to support this. In 2015, he was caught on tape criticizing
+Trump in a Palantir staff meeting, saying, “I respect nothing about the dude” and that “it
+would be hard to make up someone that I find less appealing.” He publicly backed Kamala Harris’
+campaign in 2024. There’s a picture of him wearing a keffiyeh in his college yearbook that
+sometimes gets circulated like an urban myth (Palantir posted in support of Israel in 2024). Sure,
+some could make the argument that Karp is liberal, perhaps, in the same way that putting a _Coexist_
+sticker on the back of a Cadillac Escalade is liberal, or wearing Temu pussy hats in this day and
+age could be considered liberal, or putting “moderate” in your Hinge profile can be convincing
+as potentially liberal if you turn off all the lights and squint. Throw a rock in any major American
+city and you will hit someone working for an A.I. defense startup who wants to claim the same
+political affiliation, simply because they’ve read Marx and Engels before.
+
+It’s easy to make fun of these statements because any claims of leftism are quickly eclipsed by
+the human impact that these corporations have had on people living in the country. Zuckerberg also
+started off criticizing Trump’s first term, and the two have feuded as Trump threatened to ban
+Facebook, but years later, they’re getting dinner together, and Zuckerberg’s shaping A.I. policy
+in this country.
+
+Palantir’s public positioning is not unlike Karp’s politics. The company is officially known for
+its management, data analysis, and visualization software. Its workers have called themselves
+digital “plumbers,” joining leaky or disconnected pipes of information together with A.I. tools
+so scattered datasets can be analyzed with ease. But much of its internal work has remained largely
+shielded from the public, which the company claims is for client confidentiality.
+
+Here’s what we know: A bunch of smaller companies have user data—shopping habits, demographics,
+the random subscriptions that are pooling in inboxes, everyone’s geolocations used for picking up
+food or reselling furniture or whatever. Palantir aggregates all of this, and then helps its clients
+access these different databases, synthesizing all this scattered information into one clean channel
+of analysis for whatever purpose. They can help a marketing company figure out at what price point
+you’re most likely to buy their products, based on your abandoned shopping carts across all your
+favorite stores. They can also help ICE figure out when you’re most likely to be at home or at
+work or at church, so they know how to pick where to raid. (Palantir denies that they are making
+predictive policing tools, although arrests have been made in cities across America with
+Palantir-partnered predictive policing tools.)
+
+This is the cultural switch-up that Palantir constantly plays: They have established a reputation as
+being mysterious and all-powerful, because they have all our data, but then people involved with the
+company have spent an astounding amount of airtime trying to shirk accountability around the impact
+of their work, or worse, not being able to articulate what it is they do at all. They know
+everything, and also nothing. Alex Karp and co-founder Peter Thiel have denied that Palantir ushered
+in an era of predictive policing, overreaching government surveillance, and mining sensitive user
+data, although the bulk of their public-facing partnerships are with the military and police forces,
+as well as private defense corporations like Anduril and Lockheed Martin, so all the arrows kind of
+point in one direction. Karp claims he is actually progressive, so how could someone who grew up in
+a “far-left” environment with granola and stuff possibly be manufacturing a back-end national
+surveillance dataset and selling it to the military?
+
+To be clear, what Karp actually politically identifies as is a sycophant. His financial donations
+have been scattered between Republicans and Democrats alike, and he’s spent most of his time in
+politics aggressively glazing whatever party in power holds the coin purse that re-signs the
+Department of Defense contracts with Palantir. It’s a level of dick-riding that many might not
+have believed possible: In December 2024, just one month after Kamala Harris lost the election that
+Karp himself endorsed her in, he got on stage and started dunking on Democrats for their “woke
+pagan ideology”; the next year, he said that any claims that Trump is a fascist are “stupid”
+and “idiotic” in a panel with the New York Times. Earlier this year, he also published an
+“anti-woke” manifesto in a 22-part Twitter thread that sparked huge amounts of discourse. No one
+throws it back like Karp does.
+
+Getting involved in politics is not part of his job description, but it has worked out. Karp has won
+the company hundreds of millions of dollars under the Trump administration. Palantir has played a
+pivotal role in the president’s mass deportation campaign and widespread policing across this
+country. And for all these jovial lamentations that Karp thinks Trump went “too far” in the
+violent detainment of immigrants and citizens alike, Palantir still has a $377 billion market cap.
+
+I do not think all hope is lost, though. I think there is a bulletproof solution to Karp’s desire
+to pivot left. This is a solution for any tech billionaire looking to convince the public that
+they’re actually, seriously—no, seriously—progressive: Give me all the money.
+
+All the money you have.
+
+Give it away, and give it to me.
+
+RELATED FROM SLATE
+
+JILL FILIPOVIC
+
+YOU THOUGHT THE BACKLASH TO WOKE 1.0 WAS INTENSE? JUST WAIT.
+
+ READ MORE 
+Give it to schools to buy free school lunches and hospitals to pay off medical debt and libraries
+for lots of smutty romance books.
+
+Give it to Cardi B, who can set up funds for people to get food assistance and all-expenses-paid
+girls’ trips to Miami or something for overworked women and also women who are going through
+breakups.
+
+And mostly, give it to me. I have a bunch of stuff I want to buy, including paying down my
+friends’ student loans and medical debt and then also getting some matching shoes.
+
+My demands do not end there. Once you give me the money, dissolve Palantir and dye your hair blue
+for good measure, and start experimenting with your pronouns. If you’re really about the
+superprogressive leftist life, start arguing with your co-organizers in a shared Google Doc about
+logistics for the upcoming local government sit-in. I think that would be very progressive. I think
+if you all did that, I would say, “Wow, Alex Karp knows more about being progressive than anyone
+on the planet.” (No, I still probably wouldn’t say that, because what’s past is prologue. But
+I’d be far more likely to say that.)
+
+Until then, no dice! Alex Karp and associates want to glaze Democratic senators for taxpayer money
+without giving anything first. That’s my money and your money that they’re currently prancing
+around on podcasts for. The smallest sin that Karp has to pay for is the fact that Palantir is
+possibly the most criminally incorrect LARP of _Lord of the Rings_ in history (the company, named
+after the series’ omnipresent “seeing stone,” has been dragged online for the fact that the
+entire moral of J.R.R. Tolkien’s Palantír was that it was an unreliable guide, calling into
+question if these tech bros have critical thinking abilities), and those restitutions are already
+starting at a pretty steep price. As more tech billionaires have to figure out how to align
+themselves with a Democratic-majority Congress, I expect direct deposits in the process. There’s
+no other way out. If they really want to be the best liberals we’ve ever seen.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ I consent to pixel tracking to improve this newsletter and the overall user experience. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
