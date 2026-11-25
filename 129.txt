@@ -1,0 +1,113 @@
+
+
+====================================================================================================
+
+The Scariest Part of the Jensen Huang Scandal Is What Will Happen Next
+
+====================================================================================================
+
+Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there,
+delivered to your inbox daily.
+
+American capitalism is a scarier and more malignant force today than it was last week. A high
+standard to meet, but it’s the result of President Donald Trump’s intervention to reinstate
+Jensen Huang as CEO of Nvidia. Huang’s return is a scandal stacked on top of a different scandal.
+The first was the one about at least two reported affairs, one with an Nvidia subordinate (not good)
+and another with a suspected spy for the country trying really hard to secure Nvidia’s chips in
+violation of U.S. law (very bad). This new second scandal is about what just happened to how our
+corporations operate.
+
+Fortunately, it doesn’t take a deep dive into U.S. intelligence to see what’s wrong here: Trump
+spent Monday bragging about his personal role in forcing Huang back into the C-suite, and Nvidia’s
+board said it too in a statement announcing his reinstatement. Getting angry about this scandal also
+does not require you to check your party registration or submit a card at the door declaring your
+views on the future of artificial intelligence. You can be bullish on A.I. or you can be bearish.
+Either way, this is a tire fire for American capitalism.
+
+• Video from Slate 
+
+The company’s directors did the obvious thing when they pushed out Huang, only to watch him return
+because the United States apparently now has a command economy where the great leader tells its
+largest companies what to do. They have to resign, right? It’s either that or sticking around to
+“lead” a company where they now have less than zero oversight of management.
+
+If you think A.I. is crucial tech, then the stakes are even higher. There’s a fashionable debate
+right now about “guardrails” and what the United States, its leading A.I. labs, and their
+Chinese counterparts should do about the pace of A.I. development. Trump is not a big fan of
+guardrails. He sees A.I. as a nuclear-style arms race between the United States and China. More
+pressingly, he sees a stock market line graph, one of the only things he reads religiously, going up
+and to the right. Neither view leaves much room for holding back a CEO who promises to keep it
+climbing.
+
+Trump is _escalating_ his laissez-faire approach to A.I. regulation. There are already few serious
+A.I. regulations. What Trump has done here is, in essence, build the inverse of a fence, or lower
+the bar so that it is somehow underground. There’s a difference between declining to police an
+industry and outright intervening when a company tries to police itself. Nvidia tried to hold Huang
+accountable, and Trump helped undo that decision. Not only will A.I. executives be able to take
+advantage of a regulatory open field while making decisions that might affect the future of
+humanity, but they will now have a presidential shield for the most indefensible acts, as long as
+they are important enough to the industry that their absence would make the S&P 500’s line go
+down. Trump cares more about the stock market looking good than about, say, gas prices. He also held
+at least tens of thousands of Nvidia shares as of the end of last year. It’s good to see the big
+man growing his wealth.
+
+It was already clear that if you were Trump’s political ally or benefactor, for example, you’d
+be much likelier to get a pardon, if the Justice Department would even bother to prosecute you. But
+what’s happening with Huang, a carnival barker who has aligned himself closely with Trump, is even
+more audacious. Huang is not just being spared from consequences at the corporate level for having
+multiple affairs with some of the least convenient people in the world for a CEO of a chip company
+to welcome into his bed. He is being _rewarded_ for these things, by now being bathed in more
+corporate power than he ever enjoyed before. Huang was already a singular CEO, but at least he, like
+most CEOs, had bosses on the board. Not now!
+
+RELATED FROM SLATE
+
+NITISH PAHWA
+
+TRUMP’S LATEST MOVE IS A “MODERN-DAY WATERGATE”
+
+ READ MORE 
+It’s not just Nvidia’s board that is now incapable of providing oversight of anything. Huang has
+never exactly been a champion for the paced or restrained development of A.I. He has been the
+opposite, a man whose stock price benefits from rapid, no-questions-asked acceleration. But at least
+the competitive pressures at play had caused Huang to _entertain_ the idea of some mutual
+cooperation. He was a signatory, along with Trump and other A.I. bigwigs, to the White House’s
+frontier A.I. accord in September. That accord at least called for the companies developing frontier
+models to have independent board committees to oversee what they were doing. During the brief period
+of Huang’s exile, Nvidia’s doomed board created a committee that would work on national security
+and export control issues.
+
+A company committee does not exactly have the law enforcement teeth of the FBI. But now Trump has
+obliterated even the faintest possibility of the government _or_ the private sector policing A.I.
+for the remainder of his term. If people like Meta’s Alexandr Wang are right and the next year or
+two will be decisive in A.I.’s growth, well, then that’s the playing field.
+
+If they’re wrong, the most powerful people in A.I. (who already had, to put it mildly, competing
+incentives) are now being guided in the most destructive direction possible. Imagine Sam Altman
+decides to push ahead with the release of a new OpenAI model even though his researchers believe it
+is impervious to efforts to guard against its use for the creation of child pornography. Why would
+Altman not release that model anyway? He now has good reason to believe that Trump’s primary
+problem with him would be if he didn’t do whatever it took to make the stock market go up.
+
+We have already been shifting for a few years toward corporate governance by cult of personality.
+Elon Musk’s accumulated dominance over SpaceX had already underlined the point that sober-minded,
+old-school corporate governance was no longer a requirement at the biggest U.S. companies. When
+Nvidia’s board accepted Huang’s resignation, it was evidently a last stand for the idea that
+boards of directors should focus on things like “not sleeping with multiple subordinates and a
+Chinese spy.” Just like they taught it at Harvard Business School! But now that’s out the window
+in favor of corporate governance by cronyism and by vibes.  Whatever A.I. looks like a year from
+now, it’s not a good genie to have let out of its bottle.
+
+GET THE BEST OF NEWS AND POLITICS
+
+ Sign up for Slate's evening newsletter. 
+Thanks for signing up! You can manage your newsletter subscriptions at any time. 
+You're already subscribed to the The Slatest newsletter. You can manage your newsletter
+subscriptions at any time. 
+We encountered an issue signing you up. Please try again, or manage all your newsletter
+subscriptions here . 
+Please enable javascript to sign up for newsletters. 
+
+Email address: 
+ I consent to pixel tracking to improve this newsletter and the overall user experience. 
+By signing up, you agree to our Privacy Policy and Terms. Sign Up 
